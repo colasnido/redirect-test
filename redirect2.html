@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=redirect3.html">
+  <meta http-equiv="refresh" content="5; url=redirect3.html">
   <title>Redirect 2</title>
 </head>
 <body>
-  <p>Redirecting (2/3)...</p>
+  <h2>Redirecting in <span id="timer">5</span> seconds (2/3)...</h2>
+
+  <script>
+    let timeLeft = 5;
+    setInterval(() => {
+      timeLeft--;
+      document.getElementById("timer").innerText = timeLeft;
+    }, 1000);
+  </script>
 </body>
 </html>
