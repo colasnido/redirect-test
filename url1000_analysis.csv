@@ -1,0 +1,1001 @@
+url,expected_label,final_url,classification,total_risk_score,lexical_risk,metadata_risk,redirect_risk,ssl_risk,entropy,levenshtein_dist,levenshtein_target,domain_age_years,registrar,redirect_count,was_redirected,has_ssl,ssl_valid,ssl_expired,ssl_self_signed,analysis_duration_ms
+https://storage739qh83jqutg3fds982.weebly.com/,1,https://storage739qh83jqutg3fds982.weebly.com/,Suspicious,6,2,0,0,4,4.631832608,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1971
+https://icewarpwebclientbright.weebly.com/,1,https://icewarpwebclientbright.weebly.com/,Suspicious,7,2,0,0,5,4.121267947,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,980
+https://homeservi5r4.weebly.com/,1,https://homeservi5r4.weebly.com/,Suspicious,7,2,0,0,5,4.163909766,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,993
+https://xn--generalitatdecatalunyainformacidemanteniment-0ie.weebly.com/,1,https://xn--generalitatdecatalunyainformacidemanteniment-0ie.weebly.com/,Suspicious,7,2,0,0,5,4.279467101,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1019
+https://cranmerkathie.wixsite.com/my-site-1,1,https://cranmerkathie.wixsite.com/my-site-1,Suspicious,9,2,2,0,5,4.173373988,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1347
+https://notacustomer.weebly.com/,1,https://notacustomer.weebly.com/,Suspicious,6,2,0,0,4,4.054229297,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1659
+https://kataitaly.weebly.com/,1,https://kataitaly.weebly.com/,Safe,5,0,0,0,5,3.978333581,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,954
+https://00192223.weebly.com/,1,https://00192223.weebly.com/,Suspicious,7,2,0,0,5,4.182005815,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,991
+https://blueshtt196cpsess694100038883rdparttyroundcube.weebly.com/,1,https://blueshtt196cpsess694100038883rdparttyroundcube.weebly.com/,Suspicious,6,2,0,0,4,4.578209938,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1667
+https://mmurjtyu.weebly.com/,1,https://mmurjtyu.weebly.com/,Suspicious,6,2,0,0,4,4.012188404,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1907
+https://helpdeskepii.weebly.com/,1,https://helpdeskepii.weebly.com/,Safe,4,0,0,0,4,3.965018266,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1709
+https://xn--actualitzacidelclientdegencat-62c.weebly.com/,1,https://xn--actualitzacidelclientdegencat-62c.weebly.com/,Suspicious,7,2,0,0,5,4.332032558,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1008
+https://intlsupervisecentrisfcuinf0.weebly.com/,1,https://intlsupervisecentrisfcuinf0.weebly.com/,Suspicious,7,2,0,0,5,4.23811432,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1471
+https://visio0n7onl3bnt.weebly.com/,1,https://visio0n7onl3bnt.weebly.com/,Suspicious,7,2,0,0,5,4.24301016,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,970
+https://wrimbra.weebly.com/,1,https://wrimbra.weebly.com/,Suspicious,7,2,0,0,5,4.060262039,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,982
+https://dve7er8fvd02ey8pqw.weebly.com/,1,https://dve7er8fvd02ey8pqw.weebly.com/,Suspicious,7,2,0,0,5,4.396229409,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1031
+https://grenoblein.weebly.com/,1,https://grenoblein.weebly.com/,Suspicious,7,2,0,0,5,4.081727679,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1338
+https://e9zafw.top/GYkoLrhuP,1,https://e9zafw.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.253434386,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1635
+http://f7k539.top/GYkoLrhuP,1,http://f7k539.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.106377317,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1358
+https://f7k539.top/GYkoLrhuP,1,https://f7k539.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.182005815,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1187
+http://fpd0hb.top/GYkoLrhuP,1,http://fpd0hb.top/GYkoLrhuP,Suspicious,8,0,3,0,5,3.97638565,7,gcash.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1544
+https://fpd0hb.top/GYkoLrhuP,1,https://fpd0hb.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.056656707,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1209
+http://a93rri.top/GYkoLrhuP,1,http://a93rri.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.004344446,7,amazon.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1203
+https://a93rri.top/GYkoLrhuP,1,https://a93rri.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.083616975,7,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1091
+http://obxc0j.top/GYkoLrhuP,1,http://obxc0j.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.07841852,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1174
+https://obxc0j.top/GYkoLrhuP,1,https://obxc0j.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.155045547,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1079
+http://td7175.top/GYkoLrhuP,1,http://td7175.top/GYkoLrhuP,Suspicious,8,0,3,0,5,3.986187965,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1182
+https://td7175.top/GYkoLrhuP,1,https://td7175.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.06610894,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1071
+http://vqej0f.top/GYkoLrhuP,1,http://vqej0f.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.180451391,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1150
+https://vqej0f.top/GYkoLrhuP,1,https://vqej0f.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.253434386,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1053
+http://wd24j1.top/GYkoLrhuP,1,http://wd24j1.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.180451391,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1110
+https://wd24j1.top/GYkoLrhuP,1,https://wd24j1.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.253434386,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1052
+http://0g5yrg.top/GYkoLrhuP,1,http://0g5yrg.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.032303243,7,gcash.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1125
+https://0g5yrg.top/GYkoLrhuP,1,https://0g5yrg.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.110577243,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1322
+http://g3rkgf.top/GYkoLrhuP,1,http://g3rkgf.top/GYkoLrhuP,Suspicious,8,0,3,0,5,3.958229169,7,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2989
+https://g3rkgf.top/GYkoLrhuP,1,https://g3rkgf.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.039148672,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1079
+http://g6yfg0.top/GYkoLrhuP,1,http://g6yfg0.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.106377317,7,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1099
+https://g6yfg0.top/GYkoLrhuP,1,https://g6yfg0.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.182005815,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1205
+https://gvd8sp.top/GYkoLrhuP,1,https://gvd8sp.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.083616975,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1171
+https://39o8sz.top/GYkoLrhuP,1,https://39o8sz.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.083616975,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2177
+https://fd16ji.top/GYkoLrhuP,1,https://fd16ji.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.253434386,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1230
+https://my-sso-itrustcapital-com-cdn.webflow.io/,1,https://my-sso-itrustcapital-com-cdn.webflow.io/,Suspicious,7,2,1,0,4,4.295914522,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,944
+https://support-ledger-help-cdn.webflow.io/,1,https://support-ledger-help-cdn.webflow.io/,Suspicious,8,2,1,0,5,4.222208068,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,607
+https://ledgrlivewaltetise.webflow.io/,1,https://ledgrlivewaltetise.webflow.io/,Safe,5,0,1,0,4,3.988077435,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,913
+https://kucoinsupportnumbercanada.webflow.io/,1,https://kucoinsupportnumbercanada.webflow.io/,Suspicious,7,2,1,0,4,4.324534763,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1851
+https://kucoin-supportnumbercanada.webflow.io/,1,https://kucoin-supportnumbercanada.webflow.io/,Suspicious,7,2,1,0,4,4.381620108,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1220
+https://truistonline.webflow.io/,1,https://truistonline.webflow.io/,Suspicious,6,0,1,0,5,3.929229297,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1076
+https://bttinternet7.wixsite.com:443/mail,1,https://bttinternet7.wixsite.com:443/mail,Safe,4,2,2,0,0,4.158496896,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1627
+https://mailopenbill.weebly.com/,1,https://mailopenbill.weebly.com/,Suspicious,7,2,0,0,5,4.015319531,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1046
+https://verificacaodeatualizacao.weebly.com/,1,https://verificacaodeatualizacao.weebly.com/,Suspicious,7,2,0,0,5,4.220128777,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1152
+https://frontieradmin99k.weebly.com/,1,https://frontieradmin99k.weebly.com/,Suspicious,7,2,0,0,5,4.384795487,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1129
+https://spacmn0.weebly.com/,1,https://spacmn0.weebly.com/,Suspicious,7,2,0,0,5,4.060262039,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1141
+https://ertysdfrtgy.weebly.com/,1,https://ertysdfrtgy.weebly.com/,Suspicious,7,2,0,0,5,4.042433004,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1172
+https://thenen.weebly.com/,1,https://thenen.weebly.com/,Safe,5,0,0,0,5,3.796217603,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1086
+https://pineberrycollla.weeblysite.com,1,https://pineberrycollla.weeblysite.com,Suspicious,7,2,0,0,5,4.080439935,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2143
+https://blinq.me/9DMMpE4M07OQ?bs=db,1,https://blinq.me/9DMMpE4M07OQ?bs=db,Safe,3,2,1,0,0,4.55029266,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1423
+http://verpolamoaraajid.com/dr,1,http://verpolamoaraajid.com/dr,Suspicious,8,0,3,0,5,3.898068512,12,paymaya.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1134
+http://hog2h7.top/FBclEpOEC,1,http://hog2h7.top/FBclEpOEC,Suspicious,8,0,3,0,5,3.902311576,7,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1151
+https://hub.thealpha-cloud.online/optus/optus/,1,https://hub.thealpha-cloud.online/optus/optus/,Suspicious,7,0,2,0,5,3.942495522,16,paypal.com,0,Namecheap,0,FALSE,TRUE,FALSE,FALSE,FALSE,1888
+https://sitodiprovagdr.altervista.org/,1,https://sitodiprovagdr.altervista.org/,Safe,5,0,0,0,5,3.843083356,10,ateneo.edu,24,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1670
+https://6s2p27v.duckdns.org/,1,https://6s2p27v.duckdns.org/,Suspicious,7,2,0,0,5,4.110577243,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,7798
+https://mlwx12fx.duckdns.org/,1,https://mlwx12fx.duckdns.org/,Suspicious,9,2,2,0,5,4.349191771,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,7675
+https://ea2l9o74p.duckdns.org/,1,https://ea2l9o74p.duckdns.org/,Suspicious,9,2,2,0,5,4.348394346,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,10751
+https://kjc1opg7m.duckdns.org/,1,https://kjc1opg7m.duckdns.org/,Suspicious,9,2,2,0,5,4.148394346,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,7642
+https://tjc9rft.duckdns.org/,1,https://tjc9rft.duckdns.org/,Suspicious,7,0,2,0,5,3.994680368,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,11040
+https://55tmiami.duckdns.org/,1,https://55tmiami.duckdns.org/,Suspicious,7,2,0,0,5,4.116264616,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,6063
+https://v1yunz.duckdns.org/,1,https://v1yunz.duckdns.org/,Suspicious,9,2,2,0,5,4.134336113,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,13465
+https://rm9lot.duckdns.org/,1,https://rm9lot.duckdns.org/,Suspicious,9,2,2,0,5,4.032303243,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,6707
+https://057axh.duckdns.org/,1,https://057axh.duckdns.org/,Suspicious,9,2,2,0,5,4.208410187,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,11228
+https://cap.alteradosmenu.com/,1,https://cap.alteradosmenu.com/,Suspicious,8,0,3,0,5,3.964735179,9,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1492
+http://6umkaj.top/FBclEpOEC,1,http://6umkaj.top/FBclEpOEC,Suspicious,10,2,3,0,5,4.152492595,7,paypal.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1314
+https://earthenstays.life/PlalaAccountUpdate/Sites/index.html,1,https://earthenstays.life/PlalaAccountUpdate/Sites/index.html,Suspicious,7,2,0,0,5,4.275102609,12,ateneo.edu,4,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1566
+https://creativevisionlv.com/Softaccount/Sites/index.html,1,https://creativevisionlv.com/Softaccount/Sites/index.html,Suspicious,7,2,0,0,5,4.198935139,13,facebook.com,14,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1997
+https://app.meu-presente.digital/inicio,1,https://app.meu-presente.digital/inicio,Suspicious,11,2,4,0,5,4.045286117,16,upv.edu.ph,0,PDR Ltd. d/b/a PublicDomainRegistry.com,0,FALSE,TRUE,FALSE,FALSE,FALSE,1067
+https://xwd-108965.weeblysite.com/,1,https://xwd-108965.weeblysite.com/,Suspicious,7,2,0,0,5,4.491443356,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1174
+https://att-login9874.weeblysite.com,1,https://att-login9874.weeblysite.com,Suspicious,6,2,0,0,4,4.382021447,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2711
+https://pay.finalizaracordobr.site/RmA83EaPbk13PVp,1,https://pay.finalizaracordobr.site/RmA83EaPbk13PVp,Suspicious,11,2,4,0,5,4.69617463,16,lazada.com.ph,0,"HOSTINGER operations, UAB",0,FALSE,TRUE,FALSE,FALSE,FALSE,1479
+https://mr.prio-distrib.com/,1,https://mr.prio-distrib.com/,Suspicious,8,0,3,0,5,3.770942422,11,unionbank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1211
+https://mr.prio-distrib.com/search,1,https://mr.prio-distrib.com/search,Suspicious,8,0,3,0,5,3.939829017,11,unionbank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1386
+https://quiet-marketing-447059.framer.app/,1,https://quiet-marketing-447059.framer.app/,Suspicious,7,2,0,0,5,4.397687958,7,shopee.ph,5,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,857
+https://pro.prio-distrib.com/,1,https://pro.prio-distrib.com/,Suspicious,9,0,4,0,5,3.736280133,10,unionbank.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1763
+https://pro.prio-distrib.com/search,1,https://pro.prio-distrib.com/search,Suspicious,9,0,4,0,5,3.914159445,10,unionbank.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1093
+https://my-site-104578-101065.weeblysite.com,1,https://my-site-104578-101065.weeblysite.com,Suspicious,7,2,0,0,5,4.390805482,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1151
+https://httpsaccountyougovcomgb-enjoinnewquestion-3referralpyw8b4rkb,1,https://httpsaccountyougovcomgb-enjoinnewquestion-3referralpyw8b4rkb,Suspicious,10,2,3,0,5,4.587267717,53,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,5577
+https://eninc-100893.weeblysite.com,1,https://eninc-100893.weeblysite.com,Suspicious,7,2,0,0,5,4.36485766,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1109
+https://janeandjohn6381.wixsite.com/sbcg,1,https://janeandjohn6381.wixsite.com/sbcg,Suspicious,9,2,2,0,5,4.446439345,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1070
+https://ja.cat/8Y1rC,1,https://ja.cat/8Y1rC,Safe,0,0,0,0,0,3.746439345,6,gcash.com,7,Fundacio puntCAT Administrative Account,0,FALSE,TRUE,TRUE,FALSE,FALSE,4277
+https://0000006738.vercel.app/sec.html?error=interaction_required&erro,1,https://0000006738.vercel.app/sec.html?error=interaction_required&erro,Suspicious,7,2,0,0,5,4.441024938,7,shopee.ph,5,Tucows Domains Inc,0,FALSE,TRUE,FALSE,FALSE,FALSE,776
+https://allegro.pl-oferta9150535.icu,1,https://allegro.pl-oferta9150535.icu,Suspicious,11,2,4,0,5,4.384795487,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,2023
+http://allegrolokalnie.pl-oferta9150535.icu,1,http://allegrolokalnie.pl-oferta9150535.icu,Suspicious,11,2,4,0,5,4.370821081,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1302
+https://blinq.me/5aPbtEw94gO0?bs=db,1,https://blinq.me/5aPbtEw94gO0?bs=db,Safe,3,2,1,0,0,4.571860874,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1479
+https://blinq.me/fTzLCUQGfh67?bs=db,1,https://blinq.me/fTzLCUQGfh67?bs=db,Safe,3,2,1,0,0,4.629003731,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1224
+https://blinq.me/of13VAdBbWh?bs=db,1,https://blinq.me/of13VAdBbWh?bs=db,Safe,3,2,1,0,0,4.477024974,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1329
+https://docs.google.com/presentation/d/e/2PACX-1vS9guopzi7H2eNLQt5BJDC,1,https://docs.google.com/presentation/d/e/2PACX-1vS9guopzi7H2eNLQt5BJDC,Safe,2,2,0,0,0,4.950661682,0,google.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1796
+https://miysbu.augussa.com/rmfIndex/,1,https://miysbu.augussa.com/rmfIndex/,Suspicious,9,2,2,0,5,4.294653474,5,gcash.com,0,Gname.com Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1145
+https://hanusome.com/rmfIndex/,1,https://hanusome.com/rmfIndex/,Suspicious,11,2,4,0,5,4.081727679,6,facebook.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1239
+https://miysbuseonsc.com/rmfIndex/,1,https://miysbuseonsc.com/rmfIndex/,Suspicious,10,2,3,0,5,4.182907326,8,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1329
+https://nomuberland-co-jp.com/rmfIndex/,1,https://nomuberland-co-jp.com/rmfIndex/,Suspicious,9,2,2,0,5,4.355539078,14,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,6446
+https://dominicarp.com/rmfIndex/,1,https://dominicarp.com/rmfIndex/,Suspicious,9,2,2,0,5,4.101409766,8,gcash.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,6470
+https://sblsesophia.com/rmfIndex/,1,https://sblsesophia.com/rmfIndex/,Suspicious,9,2,2,0,5,4.195909271,9,facebook.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,9415
+https://shitaidi.com/rmfIndex/,1,https://shitaidi.com/rmfIndex/,Suspicious,7,2,0,0,5,4.056564762,7,paypal.com,9,Gname.com Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,11158
+https://miysbu.raktheme.com/rmfIndex/,1,https://miysbu.raktheme.com/rmfIndex/,Suspicious,10,2,3,0,5,4.303783771,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1152
+https://miysbu.kogi-taivalive.com/rmfIndex/,1,https://miysbu.kogi-taivalive.com/rmfIndex/,Suspicious,10,2,3,0,5,4.553944406,11,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1145
+https://relivraison-colis.it.com/,1,https://relivraison-colis.it.com/,Safe,5,0,0,0,5,3.983195634,5,gcash.com,33,UK Intis Telecom Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,2307
+https://relivraison-colis.it.com/public/index.php,1,https://relivraison-colis.it.com/public/index.php,Suspicious,7,2,0,0,5,4.226156783,5,gcash.com,33,UK Intis Telecom Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,952
+https://raiffeisen-direkt.com/main,1,https://raiffeisen-direkt.com/main,Suspicious,11,2,4,0,5,4.07967865,14,facebook.com,0,Hosting Concepts B.V. d/b/a Registrar.eu,0,FALSE,TRUE,FALSE,FALSE,FALSE,1212
+https://bnshop.bncr-fil.cc,1,https://bnshop.bncr-fil.cc,Suspicious,9,0,4,0,5,3.902174814,9,facebook.com,0,Dominet (HK) Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1615
+https://bnshop.bncr-fil.cc/cr,1,https://bnshop.bncr-fil.cc/cr,Suspicious,9,0,4,0,5,3.86643315,9,facebook.com,0,Dominet (HK) Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1523
+https://paylix.gg,1,https://paylix.gg,Safe,1,0,1,0,0,3.616874606,6,paypal.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1423
+http://allegrolokalnie.684353.shop,1,http://allegrolokalnie.684353.shop,Suspicious,8,2,1,0,5,4.241730856,9,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1157
+https://pickups-relay.com/,1,https://pickups-relay.com/,Suspicious,11,2,4,0,5,4.10390991,10,paypal.com,0,"Gransy, s.r.o.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1257
+https://pickups-relay.com/public/index.php,1,https://pickups-relay.com/public/index.php,Suspicious,11,2,4,0,5,4.272804327,10,paypal.com,0,"Gransy, s.r.o.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1003
+https://staging.paylix.gg/trust,1,https://staging.paylix.gg/trust,Suspicious,6,0,1,0,5,3.756795811,6,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,421
+https://p1de-cancelar-2bd2qtubfa.weebly.com,1,https://p1de-cancelar-2bd2qtubfa.weebly.com,Suspicious,7,2,0,0,5,4.472321731,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1041
+https://s.id/KkarArtK,1,https://s.id/KkarArtK,Safe,0,0,0,0,0,3.653756708,5,gov.ph,12,PANDI Registrar,0,FALSE,TRUE,TRUE,FALSE,FALSE,1548
+https://www.aviso-bradesco.com/,1,https://www.aviso-bradesco.com/,Suspicious,10,2,3,0,5,4.082597923,10,unionbank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1435
+https://23r9i.dns.army/,1,https://23r9i.dns.army/,Suspicious,7,0,2,0,5,3.96900163,7,gcash.com,9,INWX GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,3387
+https://www.campanhaprime.click/index,1,https://www.campanhaprime.click/index,Suspicious,9,2,2,0,5,4.114066203,14,paypal.com,0,"Sav.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,3281
+https://sbisec-co-jp.bo-zone.com,1,https://sbisec-co-jp.bo-zone.com,Safe,5,0,0,0,5,3.929229297,4,amazon.com,9,Gname.com Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1357
+https://www.acesaequivalideseuidx.com/,1,https://www.acesaequivalideseuidx.com/,Suspicious,10,2,3,0,5,4.148600211,17,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1086
+https://www.sbisec.smfg.me/ETGate,1,https://www.sbisec.smfg.me/ETGate,Suspicious,10,2,3,0,5,4.020926316,6,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,496
+https://prevenciones-de-bloqueo2025.weebly.com,1,https://prevenciones-de-bloqueo2025.weebly.com,Suspicious,7,2,0,0,5,4.444181859,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1012
+https://cancel-security-ingr0573bhd.weebly.com,1,https://cancel-security-ingr0573bhd.weebly.com,Suspicious,7,2,0,0,5,4.59410788,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1404
+https://kashani.ru.com/wp-content/mu-plugins/llnnddeexx.html#dan@danax,1,https://kashani.ru.com/wp-content/mu-plugins/llnnddeexx.html#dan@danax,Suspicious,9,2,2,0,5,4.402596996,5,gcash.com,29,"Sav.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,10900
+https://meinelba-raiffeisen.com/main,1,https://meinelba-raiffeisen.com/main,Suspicious,10,2,3,0,5,4.030493057,14,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1285
+https://caixageral-carregar.com/login.php,1,https://caixageral-carregar.com/login.php,Suspicious,9,2,2,0,5,4.073913212,16,google.com,0,"OwnRegistrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1336
+https://caixageral-carregar.com,1,https://caixageral-carregar.com,Suspicious,7,0,2,0,5,3.910179279,16,google.com,0,"OwnRegistrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1035
+https://nouvellelivraison-packet-fr.com/,1,https://nouvellelivraison-packet-fr.com/,Suspicious,11,2,4,0,5,4.277567157,21,unionbank.com,0,Hosting Concepts B.V. d/b/a Registrar.eu,0,FALSE,TRUE,FALSE,FALSE,FALSE,1764
+https://nouvellelivraison-packet-fr.com/pages/index.php,1,https://nouvellelivraison-packet-fr.com/pages/index.php,Suspicious,11,2,4,0,5,4.390387105,21,unionbank.com,0,Hosting Concepts B.V. d/b/a Registrar.eu,0,FALSE,TRUE,FALSE,FALSE,FALSE,2103
+http://myhermesdepsot.top,1,http://myhermesdepsot.top,Suspicious,8,0,3,0,5,3.54346519,12,facebook.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,6226
+https://3ghaats4.lat/5qjfdrqj/oViueb/7,1,https://3ghaats4.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.396229409,8,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1897
+https://3gacfsg.lat/5qjfdrqj/oViueb/7,1,https://3gacfsg.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.442844501,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3148
+https://kpcvvpyajm3w.mateusz-morales.fr/F0BZ6,1,https://kpcvvpyajm3w.mateusz-morales.fr/F0BZ6,Suspicious,11,2,4,0,5,4.680090318,13,ateneo.edu,0,One.com A/S,0,FALSE,TRUE,FALSE,FALSE,FALSE,1475
+https://3fafcs65.lat/5qjfdrqj/oViueb/7,1,https://3fafcs65.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.428995527,9,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1577
+https://3ahnsg.lat/5qjfdrqj/oViueb/7,1,https://3ahnsg.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.437577002,8,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2291
+https://interiakastlivxresbrokeers.com/login,1,https://interiakastlivxresbrokeers.com/login,Suspicious,9,2,2,0,5,4.152391278,21,facebook.com,0,Gname.com Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1622
+https://3agsf.lat/5qjfdrqj/oViueb/7,1,https://3agsf.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.376010789,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1953
+https://33ajy.lat/5qjfdrqj/oViueb/7,1,https://33ajy.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.354442575,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1365
+https://t.co/jpRRCduPOe,1,https://t.co/jpRRCduPOe,Safe,1,0,1,0,0,3.936180434,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1380
+http://myhermesdepsot.icu,1,http://myhermesdepsot.icu,Suspicious,8,0,3,0,5,3.86346519,11,ateneo.edu,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2088
+https://kev5a6cxhkqg.mateusz-benzema.fr/BS5ZM,1,https://kev5a6cxhkqg.mateusz-benzema.fr/BS5ZM,Suspicious,11,2,4,0,5,4.685971707,13,ateneo.edu,0,One.com A/S,0,FALSE,TRUE,FALSE,FALSE,FALSE,1112
+https://allegrolokalnie.pl-oferta7888542.cfd/oferta/l-512504801?id=c7,1,https://allegrolokalnie.pl-oferta7888542.cfd/oferta/l-512504801?id=c7,Suspicious,11,2,4,0,5,4.662518116,16,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,2097
+https://2gasgf.lat/5qjfdrqj/oViueb/7,1,https://2gasgf.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.382021447,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1444
+https://2hbsyh.lat/5qjfdrqj/oViueb/7,1,https://2hbsyh.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.361052349,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1643
+https://muonstance.com/rmfIndex/#/,1,https://muonstance.com/rmfIndex/#/,Suspicious,9,2,2,0,5,4.091159812,7,google.com,17,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2019
+https://nomuaerskin.com/,1,https://nomuaerskin.com/,Suspicious,9,0,4,0,5,3.970175521,8,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1192
+https://delaioencer.com/rmfIndex/,1,https://delaioencer.com/rmfIndex/,Suspicious,11,2,4,0,5,4.13530321,8,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1209
+https://2gfagfs4.lat/5qjfdrqj/oViueb/7,1,https://2gfagfs4.lat/5qjfdrqj/oViueb/7,Suspicious,11,2,4,0,5,4.428995527,8,gcash.com,0,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1443
+https://designid.gr/regulatgensign/credpropcentr/403.php,1,https://designid.gr/regulatgensign/credpropcentr/403.php,Suspicious,8,2,1,0,5,4.123196621,8,dlsu.edu.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,6478
+https://ghs.ma/auditportallib/recreferal/403.php,1,https://ghs.ma/auditportallib/recreferal/403.php,Suspicious,8,2,1,0,5,4.254247855,4,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1804
+https://eu.jotform.com/app/251883696748377,1,https://eu.jotform.com/app/251883696748377,Suspicious,6,2,0,0,4,4.445307006,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2661
+https://bhop33klaze7.meucomputador.eu/TQ12Q,1,https://bhop33klaze7.meucomputador.eu/TQ12Q,Suspicious,10,2,3,0,5,4.483722313,12,upv.edu.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,517
+https://ja.cat/7LKbY,1,https://ja.cat/7LKbY,Safe,0,0,0,0,0,3.746439345,6,gcash.com,7,Fundacio puntCAT Administrative Account,0,FALSE,TRUE,TRUE,FALSE,FALSE,3589
+https://uiqarqr3oekl.mateo-chowdhury.fr/336H1,1,https://uiqarqr3oekl.mateo-chowdhury.fr/336H1,Suspicious,11,2,4,0,5,4.563532263,13,ateneo.edu,0,One.com A/S,0,FALSE,TRUE,FALSE,FALSE,FALSE,1085
+https://4absf3.lat/5qjfdraj/oViueb/7,1,https://4absf3.lat/5qjfdraj/oViueb/7,Suspicious,10,2,3,0,5,4.361052349,8,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1325
+http://myhermesdspot.vip,1,http://myhermesdspot.vip,Suspicious,8,0,3,0,5,3.772055209,12,facebook.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2032
+http://grsthesgribilage.com/bVgfKQGTcIR,1,http://grsthesgribilage.com/bVgfKQGTcIR,Suspicious,10,2,3,0,5,4.47745927,11,securitybank.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1191
+https://logipsocloud.v6.army/KLbVgfKQGTcIRcSQITgMJhQPwtrFR/auth/,1,https://logipsocloud.v6.army/KLbVgfKQGTcIRcSQITgMJhQPwtrFR/auth/,Suspicious,9,2,2,0,5,4.978373781,7,gov.ph,5,INWX GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,3233
+https://3ysb5.lat/5qjfdraj/oViueb/7,1,https://3ysb5.lat/5qjfdraj/oViueb/7,Suspicious,10,2,3,0,5,4.376010789,8,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1440
+https://taxationofficeover.wixsite.com/process,1,https://taxationofficeover.wixsite.com/process,Safe,4,2,2,0,0,4.029452044,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1736
+https://dev8.reeras.site/subsprofilecorp/rmtsidboard/403.php,1,https://dev8.reeras.site/subsprofilecorp/rmtsidboard/403.php,Suspicious,7,2,0,0,5,4.259090238,9,paypal.com,4,Namecheap,0,FALSE,TRUE,FALSE,FALSE,FALSE,6743
+https://allegrolokalnie.pl-oferta78852345.cfd/oferta/l/-673668829?id=5,1,https://allegrolokalnie.pl-oferta78852345.cfd/oferta/l/-673668829?id=5,Suspicious,11,2,4,0,5,4.670154939,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,2632
+https://allegro-zaloguj-kamppaniie.vercel.app/,1,https://allegro-zaloguj-kamppaniie.vercel.app/,Suspicious,7,2,0,0,5,4.263253946,7,shopee.ph,5,Tucows Domains Inc,0,FALSE,TRUE,FALSE,FALSE,FALSE,810
+https://supportbot.support/app/,1,https://supportbot.support/app/,Suspicious,9,0,4,0,5,3.251909216,14,bpi.com.ph,0,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1140
+https://docs.google.com/presentation/d/e/2PACX-1vTxT4SdE2IP9U94WTJ6XcP,1,https://docs.google.com/presentation/d/e/2PACX-1vTxT4SdE2IP9U94WTJ6XcP,Safe,2,2,0,0,0,4.945085117,0,google.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2111
+https://webportalmainnet.firebaseapp.com/app/,1,https://webportalmainnet.firebaseapp.com/app/,Suspicious,6,2,0,0,4,4.00031053,8,facebook.com,13,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1261
+https://124.156.238.190/rmflndex,1,https://124.156.238.190/rmflndex,Suspicious,10,2,3,0,5,4.429229297,6,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,5548
+http://nomuapence.com,1,http://nomuapence.com,Suspicious,7,0,2,0,5,3.630412661,7,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,6094
+http://nonmruajapaneb.com,1,http://nonmruajapaneb.com,Suspicious,7,0,2,0,5,3.86346519,11,paypal.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,3916
+http://nonmruajapansc.com,1,http://nonmruajapansc.com,Suspicious,7,0,2,0,5,3.78346519,11,paypal.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,6083
+http://nonmruajapansh.com,1,http://nonmruajapansh.com,Suspicious,7,0,2,0,5,3.78346519,11,paypal.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,5967
+http://nomuaincoln.com,1,http://nomuaincoln.com,Suspicious,7,0,2,0,5,3.663532755,7,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,4796
+http://nomuamseyer.com,1,http://nomuamseyer.com,Suspicious,7,0,2,0,5,3.879664005,9,google.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,4087
+http://nomuaonaha.com,1,http://nomuaonaha.com,Suspicious,7,0,2,0,5,3.463280518,7,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,4009
+http://nomuaexanra.com,1,http://nomuaexanra.com,Suspicious,7,0,2,0,5,3.788754914,8,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,3904
+http://nomuaoderic.com,1,http://nomuaoderic.com,Suspicious,7,0,2,0,5,3.879664005,9,google.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,8670
+http://nonmruajapanea.com,1,http://nonmruajapanea.com,Suspicious,7,0,2,0,5,3.73366069,11,paypal.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,6061
+http://nonmruajapanse.com,1,http://nonmruajapanse.com,Suspicious,7,0,2,0,5,3.86346519,11,paypal.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,4039
+http://nomuaustine.com,1,http://nomuaustine.com,Suspicious,7,0,2,0,5,3.788754914,8,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,3647
+http://nomuadsome.com,1,http://nomuadsome.com,Suspicious,7,0,2,0,5,3.748994804,7,amazon.com,0,Aceville Pte. Ltd.,0,FALSE,FALSE,FALSE,FALSE,FALSE,3644
+http://allegro.pl-oferta2992735.icu,1,http://allegro.pl-oferta2992735.icu,Suspicious,11,2,4,0,5,4.343289445,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1482
+http://allegro.pl-oferta9180575.cfd,1,http://allegro.pl-oferta9180575.cfd,Suspicious,11,2,4,0,5,4.343289445,16,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1332
+https://determined-permission-952251.framer.app/,1,https://determined-permission-952251.framer.app/,Suspicious,7,2,0,0,5,4.222794209,7,shopee.ph,5,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,4939
+https://gjhomein.com/webmail_dev.html,1,https://gjhomein.com/webmail_dev.html,Suspicious,7,2,0,0,5,4.262979041,6,google.com,1,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2179
+https://app.jotform.com/251855258674570,1,https://app.jotform.com/251855258674570,Suspicious,6,2,0,0,4,4.243628104,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2900
+https://eu.jotform.com/app/251853884620362,1,https://eu.jotform.com/app/251853884620362,Suspicious,6,2,0,0,4,4.397687958,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2790
+https://app.jotform.com/251752657348567,1,https://app.jotform.com/251752657348567,Suspicious,6,2,0,0,4,4.265544847,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2165
+https://knowledgeable-platform-801334.framer.app/,1,https://knowledgeable-platform-801334.framer.app/,Suspicious,7,2,0,0,5,4.491861885,7,shopee.ph,5,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,985
+https://parace.site/,1,https://parace.site/,Suspicious,9,0,4,0,5,3.446439345,8,paypal.com,0,"HOSTINGER operations, UAB",0,FALSE,TRUE,FALSE,FALSE,FALSE,1429
+http://allegro.pl-kategorie42079669.com,1,http://allegro.pl-kategorie42079669.com,Suspicious,11,2,4,0,5,4.387465039,17,facebook.com,0,MAT BAO CORPORATION,0,FALSE,FALSE,FALSE,FALSE,FALSE,1157
+http://allegrolokalnie.pl-kategorie42079669.com,1,http://allegrolokalnie.pl-kategorie42079669.com,Suspicious,11,2,4,0,5,4.381835331,17,facebook.com,0,MAT BAO CORPORATION,0,FALSE,FALSE,FALSE,FALSE,FALSE,2389
+http://allegro.pl-oferta9192365.icu,1,http://allegro.pl-oferta9192365.icu,Suspicious,11,2,4,0,5,4.400432303,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1851
+https://william0322.wixsite.com/so/2ePVGtXjh/c?w=lyRX01GWHYMqgS-fozkuX,1,https://william0322.wixsite.com/so/2ePVGtXjh/c?w=lyRX01GWHYMqgS-fozkuX,Safe,4,2,2,0,0,5.127297796,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1855
+https://mybt-fhv-shop.fourthwall.com/,1,https://mybt-fhv-shop.fourthwall.com/,Suspicious,6,2,0,0,4,4.141621609,8,google.com,27,Squarespace Domains II LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1750
+https://bling.me/9VKUlBdosfE6?bs=db,1,https://bling.me/9VKUlBdosfE6?bs=db,Suspicious,8,2,1,0,5,4.55029266,7,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,11065
+https://piercingjo.site,1,https://piercingjo.site,Suspicious,9,0,4,0,5,3.762267391,11,ateneo.edu,0,"HOSTINGER operations, UAB",0,FALSE,TRUE,FALSE,FALSE,FALSE,1512
+https://betunclub.ru/wp-includes/blocks/site-logo/Mon.html,1,https://betunclub.ru/wp-includes/blocks/site-logo/Mon.html,Suspicious,8,2,1,0,5,4.276108479,9,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2330
+https://bling.me/iwNNIALSDMhs?bs=db,1,https://bling.me/iwNNIALSDMhs?bs=db,Suspicious,8,2,1,0,5,4.493149802,7,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,7486
+https://bulky-copy-462006.framer.app/,1,https://bulky-copy-462006.framer.app/,Suspicious,7,2,0,0,5,4.432294244,7,shopee.ph,5,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,850
+https://liceopulmahu/elecpropconsec/403.php,1,https://liceopulmahu/elecpropconsec/403.php,Suspicious,10,2,3,0,5,4.036161557,9,shopee.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,10204
+https://tr.ee/zQqM80,1,https://tr.ee/zQqM80,Safe,1,0,1,0,0,3.746439345,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1798
+https://rb.gy/5yrkis,1,https://rb.gy/5yrkis,Safe,0,0,0,0,0,3.68418372,5,gov.ph,6,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,3572
+https://inctlecomca.icu/en,1,https://inctlecomca.icu/en,Suspicious,9,0,4,0,5,3.796217603,11,google.com,0,"Name.com, Inc",0,FALSE,TRUE,FALSE,FALSE,FALSE,1373
+https://bit.ly/4lhlSo9,1,https://bit.ly/4lhlSo9,Safe,0,0,0,0,0,3.720128777,5,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,3296
+https://beeano.com/98tz4eljFH,1,https://beeano.com/98tz4eljFH,Suspicious,9,2,2,0,5,4.297130564,5,amazon.com,0,DropCatch.com 1470 LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,11435
+https://bit.ly/45XfZHL,1,https://bit.ly/45XfZHL,Safe,2,2,0,0,0,4.027169118,5,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,3090
+https://qrco.de/bg8Euu,1,https://qrco.de/bg8Euu,Safe,3,2,1,0,0,4.061482187,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2396
+https://qrco.de/bg8Eij,1,https://qrco.de/bg8Eij,Safe,3,2,1,0,0,4.152391278,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3103
+https://qrco.de/bg8EGO,1,https://qrco.de/bg8EGO,Safe,3,2,1,0,0,4.152391278,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2050
+https://sendungs-tracking.de/,1,https://sendungs-tracking.de/,Suspicious,8,0,3,0,5,3.995237891,15,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,902
+https://q-r.to/bg8ENa,1,https://q-r.to/bg8ENa,Safe,4,0,0,0,4,3.939470994,5,gov.ph,13,Government of Kingdom of Tonga,0,FALSE,TRUE,FALSE,FALSE,FALSE,3065
+https://q-r.to/bg8Eij,1,https://q-r.to/bg8Eij,Safe,4,0,0,0,4,3.939470994,5,gov.ph,13,Government of Kingdom of Tonga,0,FALSE,TRUE,FALSE,FALSE,FALSE,2546
+https://q-r.to/bg8EGO,1,https://q-r.to/bg8EGO,Safe,4,0,0,0,4,3.939470994,5,gov.ph,13,Government of Kingdom of Tonga,0,FALSE,TRUE,FALSE,FALSE,FALSE,2105
+https://l.ead.me/bg8Euu,1,https://l.ead.me/bg8Euu,Suspicious,7,0,3,0,4,3.96900163,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1040
+https://l.ead.me/bg8ENa,1,https://l.ead.me/bg8ENa,Suspicious,7,0,3,0,4,3.96900163,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,790
+https://l.ead.me/bg8Eij,1,https://l.ead.me/bg8Eij,Suspicious,9,2,3,0,4,4.055958152,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2019
+https://l.ead.me/bg8EGO,1,https://l.ead.me/bg8EGO,Suspicious,9,2,3,0,4,4.055958152,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1211
+https://com-gx.live/,1,https://com-gx.live/,Suspicious,9,0,4,0,5,3.98418372,9,google.com,0,Dominet (HK) Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1288
+https://com-gn.live/,1,https://com-gn.live/,Suspicious,9,0,4,0,5,3.98418372,9,google.com,0,Dominet (HK) Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1011
+https://com-gh.live/,1,https://com-gh.live/,Suspicious,9,0,4,0,5,3.88418372,9,google.com,0,Dominet (HK) Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1205
+https://tinyurl.com/fhuh7579,1,https://tinyurl.com/fhuh7579,Safe,2,2,0,0,0,4.155045547,5,paypal.com,23,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1980
+https://promotion2025.z7.web.core.windows.net/,1,https://promotion2025.z7.web.core.windows.net/,Suspicious,7,2,0,0,5,4.214022153,9,amazon.com,30,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1546
+https://urlz.fr/uErC,1,https://urlz.fr/uErC,Safe,0,0,0,0,0,3.646439345,6,gov.ph,14,OVH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2604
+https://rebrand.ly/et4zs1z,1,https://rebrand.ly/et4zs1z,Safe,2,2,0,0,0,4.026986833,9,paypal.com,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,3700
+https://spo7358287893.wpenginepowered.com/se/ahab/sp/,1,https://spo7358287893.wpenginepowered.com/se/ahab/sp/,Suspicious,9,2,2,0,5,4.364923644,12,google.com,5,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1201
+https://s.id/N968459125,1,https://s.id/N968459125,Safe,0,0,0,0,0,3.96900163,5,gov.ph,12,PANDI Registrar,0,FALSE,TRUE,TRUE,FALSE,FALSE,2187
+https://safenz.jimdofree.com/,1,https://safenz.jimdofree.com/,Suspicious,9,2,2,0,5,4.116264616,7,google.com,7,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1131
+https://tinyurl.com/ytdyoxx,1,https://tinyurl.com/ytdyoxx,Safe,0,0,0,0,0,3.958229169,5,paypal.com,23,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1453
+https://roblox.ls/games/920587237/Adopt-Me?privateServerLinkCode=88085,1,https://roblox.ls/games/920587237/Adopt-Me?privateServerLinkCode=88085,Suspicious,10,2,3,0,5,4.891723153,7,bdo.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,478
+https://snip.ly/re5zw4,1,https://snip.ly/re5zw4,Safe,0,0,0,0,0,3.970573096,6,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,2340
+https://frespcflest.weeblysite.com/?utm_source=sniply&utm_campaign,1,https://frespcflest.weeblysite.com/?utm_source=sniply&utm_campaign,Suspicious,7,2,0,0,5,4.44516874,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1142
+https://snip.ly/imh7j3,1,https://snip.ly/imh7j3,Safe,0,0,0,0,0,3.788754914,6,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,2399
+https://bizhkt.github.io/hktbiz.github.io/biz.html?email=&utm_sour,1,https://bizhkt.github.io/hktbiz.github.io/biz.html?email=&utm_sour,Safe,3,2,1,0,0,4.1505499,7,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,774
+https://tinyurl.com/3jyxt8hf,1,https://tinyurl.com/3jyxt8hf,Safe,2,2,0,0,0,4.208966083,5,paypal.com,23,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1953
+https://etsy.offer984321.shop/464424447339,1,https://etsy.offer984321.shop/464424447339,Suspicious,10,2,3,0,5,4.090626126,13,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1362
+https://bit.ly/4law1CN,1,https://bit.ly/4law1CN,Safe,0,0,0,0,0,3.936260028,5,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,2141
+https://npgkf05.com/pf,1,https://npgkf05.com/pf,Suspicious,8,0,3,0,5,3.845350937,6,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1722
+https://safesp.jimdofree.com/,1,https://safesp.jimdofree.com/,Suspicious,7,0,2,0,5,3.952302978,7,google.com,7,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1250
+https://s.id/N215894587,1,https://s.id/N215894587,Safe,0,0,0,0,0,3.96900163,5,gov.ph,12,PANDI Registrar,0,FALSE,TRUE,TRUE,FALSE,FALSE,1707
+https://ipfs.io/ipfs/bafkreifencjt3oqwbr25f4h5mk5kaswswfnqcyvwpzzzmrl,1,https://ipfs.io/ipfs/bafkreifencjt3oqwbr25f4h5mk5kaswswfnqcyvwpzzzmrl,Suspicious,8,2,1,0,5,4.646294703,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,576
+https://tinyurl.com/54xdvxce,1,https://tinyurl.com/54xdvxce,Safe,2,2,0,0,0,4.324862958,5,paypal.com,23,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2941
+https://ipfs.io/ipfs/bafkreid4kaarndqssilpbfmt5bqofxoycyc2dtcfa3g3sikc,1,https://ipfs.io/ipfs/bafkreid4kaarndqssilpbfmt5bqofxoycyc2dtcfa3g3sikc,Suspicious,8,2,1,0,5,4.507156231,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,538
+https://cutt.ly/irYN7tXt,1,https://cutt.ly/irYN7tXt,Safe,4,0,0,0,4,3.740601563,6,gov.ph,5,Libyan Spider Network (int),0,FALSE,TRUE,FALSE,FALSE,FALSE,2356
+https://cloudionos-rechnungfregzent.surge.sh/,1,https://cloudionos-rechnungfregzent.surge.sh/,Suspicious,8,2,1,0,5,4.129981707,5,shopee.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2103
+https://lc.cx/qfm4pC,1,https://lc.cx/qfm4pC,Safe,0,0,0,0,0,3.78418372,5,gov.ph,15,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,3125
+https://vadym22.serv00.net/sse-usps/packa/,1,https://vadym22.serv00.net/sse-usps/packa/,Safe,2,2,0,0,0,4.103294435,8,gov.ph,6,OVH sas,0,FALSE,TRUE,TRUE,FALSE,FALSE,3160
+https://urlz.fr/uEqF,1,https://urlz.fr/uEqF,Safe,0,0,0,0,0,3.78418372,6,gov.ph,14,OVH,0,FALSE,TRUE,TRUE,FALSE,FALSE,6359
+https://primeirodeimaio.sviluppo.host/boulangerie/lib/owlcarousel/asset,1,https://primeirodeimaio.sviluppo.host/boulangerie/lib/owlcarousel/asset,Suspicious,9,2,2,0,5,4.14697498,10,paypal.com,8,Tucows.com Co.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2361
+https://zpr.io/quDsHejwzmFd,1,https://zpr.io/quDsHejwzmFd,Safe,3,2,1,0,0,4.282484261,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2040
+https://92-113-146-124.cpanel.site/rolms/?f503erf6450ergf4152456455478,1,https://92-113-146-124.cpanel.site/rolms/?f503erf6450ergf4152456455478,Suspicious,9,2,2,0,5,4.614209982,8,paypal.com,1,Tucows.com Co.,0,FALSE,TRUE,FALSE,FALSE,FALSE,8399
+https://zpr.io/QT3337TwipuQ,1,https://zpr.io/QT3337TwipuQ,Safe,1,0,1,0,0,3.930270372,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1971
+https://logisticayequipos.com/rmbrnt.emisav/minn.ccessrane/,1,https://logisticayequipos.com/rmbrnt.emisav/minn.ccessrane/,Suspicious,7,2,0,0,5,4.191988711,14,facebook.com,5,PDR Ltd. d/b/a PublicDomainRegistry.com,0,FALSE,TRUE,FALSE,FALSE,FALSE,2247
+https://rb.gy/d4hzuc,1,https://rb.gy/d4hzuc,Safe,0,0,0,0,0,3.88418372,5,gov.ph,6,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,5028
+https://skillnepal.org.np/ok/,1,https://skillnepal.org.np/ok/,Safe,3,0,3,0,0,3.840402547,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2512
+https://rebrand.ly/6hvs78q,1,https://rebrand.ly/6hvs78q,Safe,2,2,0,0,0,4.209867122,9,paypal.com,5,Libyan Spider Network (int),0,FALSE,TRUE,TRUE,FALSE,FALSE,2464
+https://lwb.bgc.mybluehost.me/wp-content/lbg/lb/net/login.php,1,https://lwb.bgc.mybluehost.me/wp-content/lbg/lb/net/login.php,Suspicious,7,2,1,0,4,4.084094667,10,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3919
+https://rb.gy/ischrz,1,https://rb.gy/ischrz,Safe,0,0,0,0,0,3.68418372,5,gov.ph,6,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,3113
+https://wearehivemind.com/DE-en/booking/login.php,1,https://wearehivemind.com/DE-en/booking/login.php,Suspicious,7,2,0,0,5,4.367374834,10,securitybank.com,6,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1508
+https://supppotmetafb.ubpages.com/br-fb/,1,https://supppotmetafb.ubpages.com/br-fb/,Safe,5,0,0,0,5,3.962814895,6,google.com,9,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1253
+http://logs.works/,1,http://logs.works/,Suspicious,9,0,4,0,5,3.572431251,8,google.com,0,"Name.com, Inc.",0,FALSE,FALSE,FALSE,FALSE,FALSE,1369
+https://treeswelletstart.webflow.io/,1,https://treeswelletstart.webflow.io/,Safe,5,0,1,0,4,3.721620405,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,982
+http://treeswelletstart.webflow.io,1,http://treeswelletstart.webflow.io,Suspicious,6,0,1,0,5,3.716016062,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,499
+https://globaldrivesu.com/vt/new/new/index.php#tips@fbi.gov,1,https://globaldrivesu.com/vt/new/new/index.php#tips@fbi.gov,Suspicious,7,2,0,0,5,4.471046227,9,google.com,4,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2385
+https://samratcrackers.com/wp-admin/host/interface.root/main/mail2/aut,1,https://samratcrackers.com/wp-admin/host/interface.root/main/mail2/aut,Suspicious,7,2,0,0,5,4.152418154,10,securitybank.com,1,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1337
+https://danielschneider11.com/wp-admin/user/May_CpOverviewsSettlement8,1,https://danielschneider11.com/wp-admin/user/May_CpOverviewsSettlement8,Suspicious,9,2,2,0,5,4.536096682,14,facebook.com,0,Global Domain Group LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1683
+https://docs-trezr--cd-en-us.webflow.io/,1,https://docs-trezr--cd-en-us.webflow.io/,Suspicious,8,2,1,0,5,4.187326145,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,474
+http://docs-trezr--cd-en-us.webflow.io,1,http://docs-trezr--cd-en-us.webflow.io,Suspicious,8,2,1,0,5,4.198603751,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,365
+https://io-startttrezor.webflow.io/,1,https://io-startttrezor.webflow.io/,Safe,5,0,1,0,4,3.900153017,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1017
+http://io-startttrezor.webflow.io,1,http://io-startttrezor.webflow.io,Suspicious,6,0,1,0,5,3.884858892,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,507
+http://3.142.173.60/,1,http://3.142.173.60/,Suspicious,8,0,3,0,5,3.546439345,5,gov.ph,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,5461
+https://traazjirio-stiart.webflow.io/,1,https://traazjirio-stiart.webflow.io/,Suspicious,8,2,1,0,5,4.003259028,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,933
+http://traazjirio-stiart.webflow.io,1,http://traazjirio-stiart.webflow.io,Suspicious,6,0,1,0,5,3.990017217,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,616
+https://blinq.me/BOC8gqhsauoZ?bs=db,1,https://blinq.me/BOC8gqhsauoZ?bs=db,Safe,3,2,1,0,0,4.55029266,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1460
+https://logon-sso-ttrzor-oathh.webflow.io/,1,https://logon-sso-ttrzor-oathh.webflow.io/,Suspicious,8,2,1,0,5,4.004682305,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,611
+http://logon-sso-ttrzor-oathh.webflow.io,1,http://logon-sso-ttrzor-oathh.webflow.io,Suspicious,8,2,1,0,5,4.002655597,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,501
+https://d6ooug.top/GYKoLrhuP/,1,https://d6ooug.top/GYKoLrhuP/,Suspicious,8,0,3,0,5,3.935398667,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1606
+http://faceit.eternalsgamingcs.com/,1,http://faceit.eternalsgamingcs.com/,Suspicious,11,2,4,0,5,4.014438731,13,amazon.com,0,Web Commerce Communications Limited dba WebNic.cc,0,FALSE,FALSE,FALSE,FALSE,FALSE,1339
+https://fixweb3apps.pages.dev/,1,https://fixweb3apps.pages.dev/,Safe,5,0,0,0,5,3.964735179,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1712
+https://amniehekjwghw.pages.dev/,1,https://amniehekjwghw.pages.dev/,Suspicious,7,2,0,0,5,4.015319531,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,827
+https://wwwpiinnn.pages.dev/,1,https://wwwpiinnn.pages.dev/,Safe,5,0,0,0,5,3.770942422,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,957
+https://poinn.pages.dev/,1,https://poinn.pages.dev/,Safe,5,0,0,0,5,3.772055209,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1347
+https://gular-motley-buffet10-20jtkonfirmasiii.pages.dev/,1,https://gular-motley-buffet10-20jtkonfirmasiii.pages.dev/,Suspicious,7,2,0,0,5,4.615625488,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1226
+https://dttg-rrdy-givss-dn4-idjtaan.pages.dev/,1,https://dttg-rrdy-givss-dn4-idjtaan.pages.dev/,Suspicious,7,2,0,0,5,4.056519707,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,881
+https://danagrtis-ambil10-20jt-konfirmasikrg.pages.dev/,1,https://danagrtis-ambil10-20jt-konfirmasikrg.pages.dev/,Suspicious,7,2,0,0,5,4.497192614,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,813
+https://skndbbdjdbhsjbd.pages.dev/,1,https://skndbbdjdbhsjbd.pages.dev/,Safe,5,0,0,0,5,3.782623783,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,783
+https://forms.gle/kac1sXr1Jct6Bsgs7,1,https://forms.gle/kac1sXr1Jct6Bsgs7,Safe,2,2,0,0,0,4.297299718,7,gov.ph,6,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1247
+https://docs.google.com/forms/d/e/1FAIpQLSfn_Cx-l49zW7D9VoUkobq3DZWr3F,1,https://docs.google.com/forms/d/e/1FAIpQLSfn_Cx-l49zW7D9VoUkobq3DZWr3F,Safe,2,2,0,0,0,5.101909489,0,google.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2225
+https://did.li/k-vish6,1,https://did.li/k-vish6,Safe,1,0,1,0,0,3.663532755,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1527
+https://vg.chepwv5.sa.com/voucherID7712006349/,1,https://vg.chepwv5.sa.com/voucherID7712006349/,Suspicious,9,2,2,0,5,4.631832608,4,gcash.com,27,"Sav.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1758
+https://did.li/qqm6q,1,https://did.li/qqm6q,Safe,1,0,1,0,0,3.546439345,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1264
+https://9j6.950.mytemp.website/isracard/indexhttp://allegrolokalnie.pl-19268.icu,1,https://9j6.950.mytemp.website/isracard/indexhttp://allegrolokalnie.pl-19268.icu,Suspicious,9,2,2,0,5,4.726641733,11,ateneo.edu,1,"Go Daddy, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2159
+http://allegro.pl-19268.icu,1,http://allegro.pl-19268.icu,Suspicious,11,2,4,0,5,4.282484261,10,paypal.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1372
+https://pay.comu.su/,1,https://pay.comu.su/,Suspicious,8,0,3,0,5,3.58418372,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,10199
+https://pay.comu.su/index.php/checkout-hu/?add-to-cart=83,1,https://pay.comu.su/index.php/checkout-hu/?add-to-cart=83,Suspicious,10,2,3,0,5,4.376859866,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,13627
+https://links.truthsocial.com/link/114793671672225780,1,https://links.truthsocial.com/link/114793671672225780,Suspicious,6,2,0,0,4,4.56236503,9,paypal.com,14,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,6251
+https://pay.comu.su/index.php/checkout-hu/?add-to-cart=83Ã‚Â¤cy,1,https://pay.comu.su/index.php/checkout-hu/?add-to-cart=83Ã‚Â¤cy,Suspicious,10,2,3,0,5,4.570877401,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,10678
+https://cnvimbra.weebly.com,1,https://cnvimbra.weebly.com,Suspicious,6,2,0,0,4,4.236368984,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1848
+https://pro-reward.cn/svs/card_cashback.html,1,https://pro-reward.cn/svs/card_cashback.html,Suspicious,10,2,3,0,5,4.197845823,10,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,612
+https://pro-reward.cn/svs,1,https://pro-reward.cn/svs,Suspicious,8,0,3,0,5,3.91326969,10,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,541
+https://mj2idi.top/v1/check,1,https://mj2idi.top/v1/check,Suspicious,8,0,3,0,5,3.986187965,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1745
+https://mj2idi.top/0zADfe,1,https://mj2idi.top/0zADfe,Suspicious,10,2,3,0,5,4.10346519,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1198
+https://ux9759.top/GYkoLrhuP,1,https://ux9759.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.110577243,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2707
+https://3sh6h2.top/v1/check,1,https://3sh6h2.top/v1/check,Suspicious,8,0,3,0,5,3.763965743,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1921
+https://3sh6h2.top/XAMXat,1,https://3sh6h2.top/XAMXat,Suspicious,8,0,3,0,5,3.70346519,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1745
+https://1yyvll.top/GYkoLrhuP,1,https://1yyvll.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.110577243,6,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1168
+https://dreampass.jp/OYhyU/bXuOqxTVOn/ozBlEkAvm@3043869155.02878,1,https://dreampass.jp/OYhyU/bXuOqxTVOn/ozBlEkAvm@3043869155.02878,Safe,3,2,1,0,0,5.271418899,9,paypal.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1474
+https://dry3ds.top/v1/check,1,https://dry3ds.top/v1/check,Suspicious,9,0,4,0,5,3.912113891,7,paypal.com,0,æé½è¥¿ç»´æ°ç ç§ææéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,2138
+https://dry3ds.top/5LFRZ6,1,https://dry3ds.top/5LFRZ6,Suspicious,11,2,4,0,5,4.02346519,7,paypal.com,0,æé½è¥¿ç»´æ°ç ç§ææéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,2344
+https://nood2t.top/v1/check,1,https://nood2t.top/v1/check,Suspicious,8,0,3,0,5,3.763965743,6,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1683
+https://nood2t.top/XAMXat,1,https://nood2t.top/XAMXat,Suspicious,8,0,3,0,5,3.639079571,6,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1337
+https://wqudz7.top/v1/check,1,https://wqudz7.top/v1/check,Suspicious,11,2,4,0,5,4.060262039,8,google.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1803
+https://wqudz7.top/5LFRZ6,1,https://wqudz7.top/5LFRZ6,Suspicious,11,2,4,0,5,4.18346519,8,google.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1501
+https://www-apple-jp.sjgbzsg.com/account/?verify=QiDu4jHyGGC6Oyh9Gzmno,1,https://www-apple-jp.sjgbzsg.com/account/?verify=QiDu4jHyGGC6Oyh9Gzmno,Suspicious,7,2,0,0,5,5.04301016,5,gcash.com,6,Gname.com Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2785
+https://cj71.cn/config,1,https://cj71.cn/config,Suspicious,6,0,1,0,5,3.845350937,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1889
+https://optusnet-webmail-102232-107238.weeblysite.com,1,https://optusnet-webmail-102232-107238.weeblysite.com,Suspicious,7,2,0,0,5,4.506617512,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1895
+https://sites.google.com/view/optusnetwebmailupdateserver/home,1,https://sites.google.com/view/optusnetwebmailupdateserver/home,Safe,2,2,0,0,0,4.161733666,0,google.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2631
+http://fc5n2j.top/FBclEpOEC,1,http://fc5n2j.top/FBclEpOEC,Suspicious,11,2,4,0,5,4.07841852,7,gcash.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,FALSE,FALSE,FALSE,FALSE,1897
+https://fc5n2j.top/FBclEpOEC,1,https://fc5n2j.top/FBclEpOEC,Suspicious,10,2,3,0,5,4.155045547,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1394
+https://www.sgnown.sh.rato-hostde.de/apps/CustomerService,1,https://www.sgnown.sh.rato-hostde.de/apps/CustomerService,Suspicious,10,2,3,0,5,4.236508989,9,ateneo.edu,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1927
+https://pineberrycollla.weeblysite.com,1,https://pineberrycollla.weeblysite.com,Suspicious,7,2,0,0,5,4.080439935,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1485
+https://blinq.me/9DMMpE4M07Q0?bs=db,1,https://blinq.me/9DMMpE4M07Q0?bs=db,Safe,3,2,1,0,0,4.493149802,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2049
+http://verpolomaarajid.com/dr,1,http://verpolomaarajid.com/dr,Suspicious,8,0,3,0,5,3.926272374,11,paymaya.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1964
+http://hog2h7.top/FBclEpOEC,1,http://hog2h7.top/FBclEpOEC,Suspicious,8,0,3,0,5,3.902311576,7,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2028
+https://hub.thealpha-cloud.online/optus/optus,1,https://hub.thealpha-cloud.online/optus/optus,Suspicious,7,0,2,0,5,3.955866086,16,paypal.com,0,Namecheap,0,FALSE,TRUE,FALSE,FALSE,FALSE,2342
+https://sitodiprovagdr.altervista.org,1,https://sitodiprovagdr.altervista.org,Safe,5,0,0,0,5,3.841096866,10,ateneo.edu,24,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1860
+https://6s2p27v.duckdns.org,1,https://6s2p27v.duckdns.org,Suspicious,7,2,0,0,5,4.134336113,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,2868
+https://mlwx12fx.duckdns.org,1,https://mlwx12fx.duckdns.org,Suspicious,9,2,2,0,5,4.378783493,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,7828
+https://ea2l9o74p.duckdns.org,1,https://ea2l9o74p.duckdns.org,Suspicious,9,2,2,0,5,4.375222374,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,7072
+https://spiky-truth-pewter.glitch.me/index%20(1).html,1,https://spiky-truth-pewter.glitch.me/index%20(1).html,Suspicious,8,2,1,0,5,4.507712257,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,643
+https://gelatinous-held-lawyer.glitch.me,1,https://gelatinous-held-lawyer.glitch.me,Suspicious,8,2,1,0,5,4.253055907,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,748
+https://sequoia-dynamic-basement.glitch.me/public/A.html?fNzSWAH3xEzB7,1,https://sequoia-dynamic-basement.glitch.me/public/A.html?fNzSWAH3xEzB7,Suspicious,8,2,1,0,5,4.898726367,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,687
+https://east-twilight-bench.glitch.me,1,https://east-twilight-bench.glitch.me,Suspicious,6,0,1,0,5,3.938654717,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,627
+https://continuous-plastic-neon.glitch.me/public/bofaRUDY.html?smg_dom,1,https://continuous-plastic-neon.glitch.me/public/bofaRUDY.html?smg_dom,Safe,3,2,1,0,0,4.527297796,7,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,950
+https://chatter-spotted-space.glitch.me,1,https://chatter-spotted-space.glitch.me,Suspicious,6,0,1,0,5,3.883580822,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,701
+https://basalt-mire-taxicab.glitch.me,1,https://basalt-mire-taxicab.glitch.me,Suspicious,8,2,1,0,5,4.010412069,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,584
+https://bafkreifwnfbftmi3ciji6ug43eu5ms6rmwlssepe3yz3j4koicw3whvk4.ip,1,https://bafkreifwnfbftmi3ciji6ug43eu5ms6rmwlssepe3yz3j4koicw3whvk4.ip,Suspicious,10,2,3,0,5,4.675280211,54,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,516
+https://ipfs.io/ipns/k51qzi5uq5dfhw626m8btuppek1yn8civ49bwzx4l3nbdqw,1,https://ipfs.io/ipns/k51qzi5uq5dfhw626m8btuppek1yn8civ49bwzx4l3nbdqw,Suspicious,8,2,1,0,5,4.844764408,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,605
+https://bafybeig4vayoxhmbdyvf2ozppece7qhnnruv7ujbqcze7evxdpgjavtdbe.ip,1,https://bafybeig4vayoxhmbdyvf2ozppece7qhnnruv7ujbqcze7evxdpgjavtdbe.ip,Suspicious,10,2,3,0,5,4.659739854,56,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,513
+https://bafybeidukmot6qmsxxloyboeebe4nfd2yxrnrekq2a4gkckvbxd543biu.ip,1,https://bafybeidukmot6qmsxxloyboeebe4nfd2yxrnrekq2a4gkckvbxd543biu.ip,Suspicious,10,2,3,0,5,4.751296334,53,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,669
+https://bafybeidxtxebcb7nxkcuhvxdjm55qdgt54pochfrfjvmmlp6uqzqfjii.ip,1,https://bafybeidxtxebcb7nxkcuhvxdjm55qdgt54pochfrfjvmmlp6uqzqfjii.ip,Suspicious,10,2,3,0,5,4.774459716,53,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,638
+https://bafybeics5zktuc445nbxqy56cia6ro3b3r2isatp434ynt2vpanev4cy.ip,1,https://bafybeics5zktuc445nbxqy56cia6ro3b3r2isatp434ynt2vpanev4cy.ip,Suspicious,10,2,3,0,5,4.583950621,50,securitybank.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,622
+https://mail-moha-gov-np-project-sketch-nepal-netherland-download.netlify.app,1,https://mail-moha-gov-np-project-sketch-nepal-netherland-download.netlify.app,Suspicious,7,2,0,0,5,4.298954807,9,bpi.com.ph,7,"Name.com, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1448
+https://instagram-post-77486qets.vercel.app,1,https://instagram-post-77486qets.vercel.app,Suspicious,7,2,0,0,5,4.330464395,7,shopee.ph,5,Tucows Domains Inc,0,FALSE,TRUE,FALSE,FALSE,FALSE,1378
+https://zif.erb.mybluehost.me/webs...e3202343/wp-content/op/index.htm,1,https://zif.erb.mybluehost.me/webs...e3202343/wp-content/op/index.htm,Suspicious,8,2,1,0,5,4.45110969,10,bpi.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,892
+https://servicstream.servegame.org/asr/aut,1,https://servicstream.servegame.org/asr/aut,Safe,5,0,0,0,5,3.801152627,9,shopee.ph,21,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2556
+https://neworleans-props.com/50,1,https://neworleans-props.com/50,Suspicious,7,2,0,0,5,4.082597923,13,google.com,4,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,5169
+https://steamcommrunity.com/activation=XnpAZVfuvG,1,https://steamcommrunity.com/activation=XnpAZVfuvG,Suspicious,10,2,3,0,5,4.389422089,12,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2651
+https://mjhjs.cfd/ukwX73,1,https://mjhjs.cfd/ukwX73,Suspicious,10,2,3,0,5,4.053508855,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1912
+https://mkxsa.cfd/ukwX73,1,https://mkxsa.cfd/ukwX73,Suspicious,10,2,3,0,5,4.136842188,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1597
+https://julianoliva.com/cards/max-back/total,1,https://julianoliva.com/cards/max-back/total,Suspicious,7,2,0,0,5,4.200702574,8,unionbank.com,24,"BRANDON GRAY INTERNET SERVICES INC. (dba ""NameJuice.com"")",0,FALSE,TRUE,FALSE,FALSE,FALSE,2011
+https://pdnwnk.nlqww.xyz/?npbii,1,https://pdnwnk.nlqww.xyz/?npbii,Suspicious,11,2,4,0,5,4.042433004,8,gcash.com,0,"Go Daddy, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1519
+https://dkjuzx.eyqtq.xyz/?xLsgO,1,https://dkjuzx.eyqtq.xyz/?xLsgO,Suspicious,11,2,4,0,5,4.171465262,8,paypal.com,0,"Go Daddy, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1687
+https://mamayaeloveee5522.s3.us-east-2.amazonaws.com/Ihre_Bestellung_5,1,https://mamayaeloveee5522.s3.us-east-2.amazonaws.com/Ihre_Bestellung_5,Safe,2,2,0,0,0,4.45877306,3,amazon.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3001
+https://allegrolokalnie.iogloszenia-9832153.sbs/?id=NFab5j4gag8jJmFKFg,1,https://allegrolokalnie.iogloszenia-9832153.sbs/?id=NFab5j4gag8jJmFKFg,Suspicious,11,2,4,0,5,4.856517532,19,google.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,1812
+https://pub-54fdd878f5a745c88daf0b2fcdc3d9ec.r2.dev/att-login-screen.html,1,https://pub-54fdd878f5a745c88daf0b2fcdc3d9ec.r2.dev/att-login-screen.html,Safe,2,2,0,0,0,4.730872594,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2086
+https://att-109752-108285.weeblysite.com,1,https://att-109752-108285.weeblysite.com,Suspicious,7,2,0,0,5,4.462814895,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1690
+https://y0yi2t.top/GYkoLrhuP,1,https://y0yi2t.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.06610894,7,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1463
+http://allegrolokalnie.pl-oferta66097243070.cfd,1,http://allegrolokalnie.pl-oferta66097243070.cfd,Suspicious,11,2,4,0,5,4.503863788,20,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,2535
+http://allegro.pl-oferta66097243070.cfd,1,http://allegro.pl-oferta66097243070.cfd,Suspicious,11,2,4,0,5,4.406821129,20,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,2258
+https://pub-e54d5340ba1745d9b178a49833616fe3.r2.dev/infomonda.html,1,https://pub-e54d5340ba1745d9b178a49833616fe3.r2.dev/infomonda.html,Safe,2,2,0,0,0,4.801377452,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1585
+https://pub-2ef29d244bf149f7a9a8e1320fd1f28a.r2.dev/index.html,1,https://pub-2ef29d244bf149f7a9a8e1320fd1f28a.r2.dev/index.html,Safe,2,2,0,0,0,4.592847472,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1750
+https://pub-394c8aaeeb57489da43abab6d9b44b9d.r2.dev/index.html,1,https://pub-394c8aaeeb57489da43abab6d9b44b9d.r2.dev/index.html,Safe,2,2,0,0,0,4.525109876,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1760
+https://pub-245a38e94f4fb98bb20df43f44057e2.r2.dev/index.html,1,https://pub-245a38e94f4fb98bb20df43f44057e2.r2.dev/index.html,Safe,2,2,0,0,0,4.610584468,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1078
+https://pub-77ad26357da74c219a4a69a08655516b.r2.dev/index.html,1,https://pub-77ad26357da74c219a4a69a08655516b.r2.dev/index.html,Safe,2,2,0,0,0,4.718241625,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2497
+https://pub-003ec53712b944ebbca170e2a1d80080.r2.dev/index.html,1,https://pub-003ec53712b944ebbca170e2a1d80080.r2.dev/index.html,Safe,2,2,0,0,0,4.669539206,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1418
+https://pub-e45e84ea086742b58c424988e29f1168.r2.dev/indexlett.html,1,https://pub-e45e84ea086742b58c424988e29f1168.r2.dev/indexlett.html,Safe,2,2,0,0,0,4.621813583,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1400
+https://pub-57965ce2fbdb4e12a01a503f645f443a.r2.dev/vmo-amex.html,1,https://pub-57965ce2fbdb4e12a01a503f645f443a.r2.dev/vmo-amex.html,Safe,2,2,0,0,0,4.741072236,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1091
+https://pub-422043df490e4071ada896b0eced5da9.r2.dev/index.html,1,https://pub-422043df490e4071ada896b0eced5da9.r2.dev/index.html,Safe,2,2,0,0,0,4.70179727,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1791
+https://pub-2a6974141f5849a6827bfc44cf226dab.r2.dev/engss.html,1,https://pub-2a6974141f5849a6827bfc44cf226dab.r2.dev/engss.html,Safe,2,2,0,0,0,4.675835327,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1446
+https://pub-283cf8c26dcd48339a785db93f902c05.r2.dev/uaa-xua.html,1,https://pub-283cf8c26dcd48339a785db93f902c05.r2.dev/uaa-xua.html,Safe,2,2,0,0,0,4.659774414,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2851
+https://pub-1721d34780b848fb81d75dc3d839bffb.r2.dev/uaa-xua.html,1,https://pub-1721d34780b848fb81d75dc3d839bffb.r2.dev/uaa-xua.html,Safe,2,2,0,0,0,4.630892048,6,gov.ph,3,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1089
+https://zenith-cookie-mandarin.glitch.me,1,https://zenith-cookie-mandarin.glitch.me,Suspicious,8,2,1,0,5,4.215311532,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,431
+https://stellar-half-hippopotamus.glitch.me,1,https://stellar-half-hippopotamus.glitch.me,Suspicious,8,2,1,0,5,4.051394627,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,502
+https://jealous-bow-thistle.glitch.me,1,https://jealous-bow-thistle.glitch.me,Suspicious,8,2,1,0,5,4.111367136,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,533
+https://childish-celestial-teeth.glitch.me,1,https://childish-celestial-teeth.glitch.me,Suspicious,6,0,1,0,5,3.719964305,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,901
+https://goldenrod-power-gray.glitch.me,1,https://goldenrod-power-gray.glitch.me,Suspicious,8,2,1,0,5,4.253863368,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1100
+https://curious-efficacious-ellipse.glitch.me/public/gh00384.html,1,https://curious-efficacious-ellipse.glitch.me/public/gh00384.html,Suspicious,8,2,1,0,5,4.357155029,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,854
+https://sminbawo.glitch.me/owa,1,https://sminbawo.glitch.me/owa,Suspicious,8,2,1,0,5,4.056564762,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,533
+https://subdued-liberating-poppyseed.glitch.me/nfcuu.html,1,https://subdued-liberating-poppyseed.glitch.me/nfcuu.html,Suspicious,8,2,1,0,5,4.350372585,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,635
+https://server0926.weebly.com/,1,https://server0926.weebly.com/,Suspicious,7,2,0,0,5,4.215061012,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1576
+https://letsrevupdatepaymentupdatte.weebly.com/,1,https://letsrevupdatepaymentupdatte.weebly.com/,Suspicious,7,2,0,0,5,4.047934726,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1082
+https://telstraaweebemail.weebly.com/,1,https://telstraaweebemail.weebly.com/,Safe,4,0,0,0,4,3.918252352,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2454
+https://dsfggdfedfgdfsgdxc.weebly.com/,1,https://dsfggdfedfgdfsgdxc.weebly.com/,Safe,4,0,0,0,4,3.988077435,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2673
+https://5m8fo1.top/GYkoLrhuP,1,https://5m8fo1.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.155045547,6,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1394
+https://e0127s.top/GYkoLrhuP,1,https://e0127s.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.182005815,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1332
+https://tcel7l.top/GYkoLrhuP,1,https://tcel7l.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.06610894,7,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1512
+http://00edec.top/GYkoLrhuP,1,http://00edec.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.032303243,7,ateneo.edu,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2177
+https://00edec.top/GYkoLrhuP,1,https://00edec.top/GYkoLrhuP,Suspicious,11,2,4,0,5,4.110577243,7,ateneo.edu,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1588
+http://3kwpv7.top/GYkoLrhuP,1,http://3kwpv7.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.004344446,7,paypal.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1359
+https://3kwpv7.top/GYkoLrhuP,1,https://3kwpv7.top/GYkoLrhuP,Suspicious,11,2,4,0,5,4.083616975,7,paypal.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,2131
+http://915518.top/GYkoLrhuP,1,http://915518.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.032303243,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1468
+https://915518.top/GYkoLrhuP,1,https://915518.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.110577243,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1093
+http://f8znnh.top/GYkoLrhuP,1,http://f8znnh.top/GYkoLrhuP,Suspicious,10,2,3,0,5,4.004344446,7,amazon.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2564
+https://f8znnh.top/GYkoLrhuP,1,https://f8znnh.top/GYkoLrhuP,Suspicious,11,2,4,0,5,4.083616975,7,amazon.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1068
+http://66d8k6.top/GYkoLrhuP,1,http://66d8k6.top/GYkoLrhuP,Suspicious,9,0,4,0,5,3.930270372,8,google.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,FALSE,FALSE,FALSE,FALSE,1250
+https://66d8k6.top/GYkoLrhuP,1,https://66d8k6.top/GYkoLrhuP,Suspicious,11,2,4,0,5,4.012188404,8,google.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1089
+http://mk1o1f.top/GYkoLrhuP,1,http://mk1o1f.top/GYkoLrhuP,Suspicious,8,0,3,0,5,3.930270372,6,gov.ph,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1171
+https://blueshtt11096cpsess6941000338883rdroundcube.weebly.com/,1,https://blueshtt11096cpsess6941000338883rdroundcube.weebly.com/,Suspicious,6,2,0,0,4,4.540716535,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1844
+https://pocztapolish.weebly.com/,1,https://pocztapolish.weebly.com/,Suspicious,7,2,0,0,5,4.030639062,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1055
+https://ncmrvksjgwnhtcfpdq.weebly.com/,1,https://ncmrvksjgwnhtcfpdq.weebly.com/,Suspicious,7,2,0,0,5,4.451489026,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1053
+http://q86h46.top/GYKoLrhuP/,1,http://q86h46.top/GYKoLrhuP/,Suspicious,9,0,4,0,5,3.9677201,8,google.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,FALSE,FALSE,FALSE,FALSE,1153
+http://i52kcc.top/GYKoLrhuP/,1,http://i52kcc.top/GYKoLrhuP/,Suspicious,10,2,3,0,5,4.06610894,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1318
+https://i52kcc.top/GYKoLrhuP,1,https://i52kcc.top/GYKoLrhuP,Suspicious,10,2,3,0,5,4.182005815,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1146
+http://623ptc.top/GYKoLrhuP/,1,http://623ptc.top/GYKoLrhuP/,Suspicious,8,0,3,0,5,3.923251797,7,paypal.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1652
+https://623ptc.top/GYKoLrhuP,1,https://623ptc.top/GYKoLrhuP,Suspicious,11,2,4,0,5,4.039148672,7,paypal.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1224
+http://d20cav.top/GYKoLrhuP/,1,http://d20cav.top/GYKoLrhuP/,Suspicious,10,2,3,0,5,4.137537511,7,paypal.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1204
+https://d20cav.top/GYKoLrhuP,1,https://d20cav.top/GYKoLrhuP,Suspicious,11,2,4,0,5,4.253434386,7,paypal.com,0,è¥¿é¨æ°ç å½éæéå¬å¸,0,FALSE,TRUE,FALSE,FALSE,FALSE,1136
+http://r4u0p8.top/GYKoLrhuP/,1,http://r4u0p8.top/GYKoLrhuP/,Suspicious,8,0,3,0,5,3.896291529,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1299
+https://r4u0p8.top/GYKoLrhuP,1,https://r4u0p8.top/GYKoLrhuP,Suspicious,10,2,3,0,5,4.012188404,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3567
+http://udav2i.top/GYKoLrhuP/,1,http://udav2i.top/GYKoLrhuP/,Suspicious,10,2,3,0,5,4.06610894,7,amazon.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,2492
+https://udav2i.top/GYKoLrhuP,1,https://udav2i.top/GYKoLrhuP,Suspicious,10,2,3,0,5,4.182005815,7,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1214
+http://x098or.top/GYKoLrhuP/,1,http://x098or.top/GYKoLrhuP/,Suspicious,8,0,3,0,5,3.9677201,7,amazon.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1647
+https://x098or.top/GYKoLrhuP,1,https://x098or.top/GYKoLrhuP,Suspicious,10,2,3,0,5,4.083616975,7,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1230
+http://m1et97.top/GYKoLrhuP/,1,http://m1et97.top/GYKoLrhuP/,Suspicious,8,2,1,0,5,4.021640636,7,gcash.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1400
+https://m1et97.top/GYKoLrhuP,1,https://m1et97.top/GYKoLrhuP,Suspicious,8,2,1,0,5,4.137537511,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1845
+http://q5d5id.top/GYKoLrhuP/,1,http://q5d5id.top/GYKoLrhuP/,Suspicious,8,0,3,0,5,3.994680368,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1270
+https://q5d5id.top/GYKoLrhuP,1,https://q5d5id.top/GYKoLrhuP,Suspicious,10,2,3,0,5,4.110577243,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1069
+http://x9zcjv.top/GYKoLrhuP/,1,http://x9zcjv.top/GYKoLrhuP/,Suspicious,10,2,3,0,5,4.137537511,8,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1292
+https://pymesseleventan.com/46352673233482942834/i/index,1,https://pymesseleventan.com/46352673233482942834/i/index,Suspicious,10,2,3,0,5,4.466398066,12,paymaya.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1454
+https://basic-onboarding-388921.framer.app/,1,https://basic-onboarding-388921.framer.app/,Safe,2,2,0,0,0,4.489877255,7,shopee.ph,5,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1250
+https://blinq.me/zH3yXa9p9TBY?bs=db,1,https://blinq.me/zH3yXa9p9TBY?bs=db,Safe,3,2,1,0,0,4.629003731,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1483
+http://allegrolokalnie.pl-oferta8550802.icu,1,http://allegrolokalnie.pl-oferta8550802.icu,Suspicious,11,2,4,0,5,4.341864976,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1461
+http://8sva6di6.top/FBclEpOEC/,1,http://8sva6di6.top/FBclEpOEC/,Suspicious,10,2,3,0,5,4.189898095,9,paypal.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1321
+https://8sva6di6.top/FBclEpOEC,1,https://8sva6di6.top/FBclEpOEC,Suspicious,10,2,3,0,5,4.231401845,9,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1755
+https://www.opinionstage.com/page/aae462df-c02f-49e9-aedc-570fe26cfb95,1,https://www.opinionstage.com/page/aae462df-c02f-49e9-aedc-570fe26cfb95,Suspicious,6,2,0,0,4,4.591443867,7,unionbank.com,14,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,3424
+https://trezorwallets.godaddysites.com/,1,https://trezorwallets.godaddysites.com/,Suspicious,7,2,0,0,5,4.08978195,9,google.com,12,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1444
+https://trezor-walletti.godaddysites.com/,1,https://trezor-walletti.godaddysites.com/,Safe,2,2,0,0,0,4.155498041,9,google.com,12,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2675
+http://allegro.pl-oferta78456.cfd,1,http://allegro.pl-oferta78456.cfd,Suspicious,11,2,4,0,5,4.271370634,14,paypal.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1929
+https://allegro.pl-oferta33314.cfd,1,https://allegro.pl-oferta33314.cfd,Suspicious,11,2,4,0,5,4.197325709,14,paypal.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,1551
+http://allegro.pl-oferta3992077.icu,1,http://allegro.pl-oferta3992077.icu,Suspicious,11,2,4,0,5,4.343289445,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1546
+https://allegrolokalnie.y267.sbs/?id=H8A7HCDF1acfg72EM6BMh1C0D9iMg1,1,https://allegrolokalnie.y267.sbs/?id=H8A7HCDF1acfg72EM6BMh1C0D9iMg1,Suspicious,11,2,4,0,5,5.080430981,7,gov.ph,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,1599
+https://allegrolokalnie.pl-oferta33314.cfd,1,https://allegrolokalnie.pl-oferta33314.cfd,Suspicious,11,2,4,0,5,4.311744137,14,paypal.com,0,Web Commerce Communications Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,1414
+http://allegro.pl-kategorie8127385629362842.icu,1,http://allegro.pl-kategorie8127385629362842.icu,Suspicious,11,2,4,0,5,4.554172894,26,ateneo.edu,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1845
+http://allegrolokalnie.pl-kategorie8127385629362842.icu,1,http://allegrolokalnie.pl-kategorie8127385629362842.icu,Suspicious,11,2,4,0,5,4.556194659,26,ateneo.edu,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,1401
+http://allegrolokalnie.pl-oferta3992077.icu,1,http://allegrolokalnie.pl-oferta3992077.icu,Suspicious,11,2,4,0,5,4.388376604,17,facebook.com,0,Web Commerce Communications Ltd,0,FALSE,FALSE,FALSE,FALSE,FALSE,2043
+https://cake-boiling-elderberry.glitch.me/,1,https://cake-boiling-elderberry.glitch.me/,Suspicious,8,2,1,0,5,4.26412509,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,435
+https://www.sportektre.it/wp-content/uploads/2021/13/auth/login.php,1,https://www.sportektre.it/wp-content/uploads/2021/13/auth/login.php,Suspicious,8,2,1,0,5,4.315578556,8,shopee.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1272
+https://form.jotform.com/251832373402047,1,https://form.jotform.com/251832373402047,Suspicious,6,2,0,0,4,4.227567157,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1873
+https://eu.jotform.com/app/251869050759367,1,https://eu.jotform.com/app/251869050759367,Suspicious,7,2,1,0,4,4.463280518,6,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,8776
+https://mlr.prbs-distrib.com/,1,https://mlr.prbs-distrib.com/,Suspicious,9,0,4,0,5,3.857306857,11,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,6131
+https://mlr.prbs-distrib.com/search,1,https://mlr.prbs-distrib.com/search,Suspicious,11,2,4,0,5,4.000432303,11,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1127
+https://f003.backblazeb2.com/file/beonesrg/in.html#tips@fbi.gov,1,https://f003.backblazeb2.com/file/beonesrg/in.html#tips@fbi.gov,Suspicious,6,2,0,0,4,4.544917527,8,facebook.com,9,"Cloudflare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3163
+https://policyterm.taylowm.com/#tips@fbi.gov,1,https://policyterm.taylowm.com/#tips@fbi.gov,Suspicious,10,2,3,0,5,4.291611664,5,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1365
+https://absorbed-emerald-mapusaurus.glitch.me/?eta=tips@fbi.gov,1,https://absorbed-emerald-mapusaurus.glitch.me/?eta=tips@fbi.gov,Suspicious,8,2,1,0,5,4.445888465,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1432
+https://mlr.prb-distrib.com/,1,https://mlr.prb-distrib.com/,Suspicious,9,0,4,0,5,3.869331261,10,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1684
+https://mlr.prb-distrib.com/search,1,https://mlr.prb-distrib.com/search,Suspicious,11,2,4,0,5,4.02085512,10,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1093
+http://allegrolokalnie.878420.shop,1,http://allegrolokalnie.878420.shop,Suspicious,8,2,1,0,5,4.241730856,9,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1952
+https://sxhuanghaotex.com/us,1,https://sxhuanghaotex.com/us,Suspicious,9,0,4,0,5,3.842370993,11,google.com,0,Metaregistrar BV,0,FALSE,TRUE,FALSE,FALSE,FALSE,1798
+https://jaliscoctm.org/sx/,1,https://jaliscoctm.org/sx/,Suspicious,7,0,2,0,5,3.87314068,9,bpi.com.ph,5,PDR Ltd. d/b/a PublicDomainRegistry.com,0,FALSE,TRUE,FALSE,FALSE,FALSE,1860
+https://pymesselevantan.com/463526732334829342834/i/index,1,https://pymesselevantan.com/463526732334829342834/i/index,Suspicious,7,2,0,0,5,4.475274611,11,paymaya.com,5,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2513
+https://relay-planning.com/search,1,https://relay-planning.com/search,Suspicious,10,2,3,0,5,4.127283134,10,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1368
+https://flooder.duckdns.org,1,https://flooder.duckdns.org,Suspicious,9,2,2,0,5,4.032303243,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,10788
+https://storage.googleapis.com/veri01/auto.html,1,https://storage.googleapis.com/veri01/auto.html,Safe,2,2,0,0,0,4.129190587,4,google.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2018
+https://prio.distrib-pbr.com/,1,https://prio.distrib-pbr.com/,Suspicious,9,0,4,0,5,3.762310736,10,facebook.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1392
+https://prio.distrib-pbr.com/search,1,https://prio.distrib-pbr.com/search,Suspicious,9,0,4,0,5,3.935727659,10,facebook.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1118
+https://cincinnaticelticmamtic.com/CRSN,1,https://cincinnaticelticmamtic.com/CRSN,Suspicious,9,0,4,0,5,3.875306874,18,unionbank.com,0,"NICENIC INTERNATIONAL GROUP CO., LIMITED",0,FALSE,TRUE,FALSE,FALSE,FALSE,1170
+https://mrl.distrib-pbr.com/,1,https://mrl.distrib-pbr.com/,Suspicious,9,0,4,0,5,3.869331261,10,facebook.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1260
+https://mrl.distrib-pbr.com/search,1,https://mrl.distrib-pbr.com/search,Suspicious,11,2,4,0,5,4.02085512,10,facebook.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1046
+https://eu.jotform.com/app/251881871607364,1,https://eu.jotform.com/app/251881871607364,Suspicious,6,2,0,0,4,4.445307006,6,google.com,20,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1969
+https://consolederpssss.s3.us-east-2.amazonaws.com/Ihre_Bestellung.htm,1,https://consolederpssss.s3.us-east-2.amazonaws.com/Ihre_Bestellung.htm,Safe,2,2,0,0,0,4.321322427,3,amazon.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2962
+https://prio.prbs-distrib.com/,1,https://prio.prbs-distrib.com/,Suspicious,9,0,4,0,5,3.755913095,11,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1224
+https://prio.prbs-distrib.com/search,1,https://prio.prbs-distrib.com/search,Suspicious,9,0,4,0,5,3.919381946,11,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1108
+https://mytergency.com/regview.fsp/commauthcentre/rmcsn/ntbsmnfsb.php,1,https://mytergency.com/regview.fsp/commauthcentre/rmcsn/ntbsmnfsb.php,Suspicious,10,2,3,0,5,4.190005668,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1921
+https://quirky-educated-sandpaper.glitch.me/#redacted@abuse.ionos.com,1,https://quirky-educated-sandpaper.glitch.me/#redacted@abuse.ionos.com,Suspicious,8,2,1,0,5,4.441716763,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1360
+https://mrl.prbs-distrib.com/,1,https://mrl.prbs-distrib.com/,Suspicious,9,0,4,0,5,3.857306857,11,paypal.com,0,Squarespace Domains LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,1509
+https://www.navicosoft.xyz/attdraftcontents/elecpropconsec/rmcsn/ntbsm,1,https://www.navicosoft.xyz/attdraftcontents/elecpropconsec/rmcsn/ntbsm,Suspicious,7,2,0,0,5,4.19788851,10,facebook.com,5,Navicosoft Pty Ltd,0,FALSE,TRUE,FALSE,FALSE,FALSE,3765
+https://monchermaitre.net/redirect.php?em=redacted@abuse.ionos.com,1,https://monchermaitre.net/redirect.php?em=redacted@abuse.ionos.com,Suspicious,10,2,3,0,5,4.1400329,12,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2687
+https://26qgs5.lat/5qjfdrqj/oViueb/7,1,https://26qgs5.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.416607905,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3637
+https://25hds6.lat/5qjfdrqj/oViueb/7,1,https://25hds6.lat/5qjfdrqj/oViueb/7,Suspicious,11,2,4,0,5,4.382021447,8,gcash.com,0,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2113
+https://22ygat.lat/5qjfdrqj/oViueb/7,1,https://22ygat.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.402990544,7,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1404
+https://v.la/fuMqBBn,1,https://v.la/fuMqBBn,Suspicious,8,0,3,0,5,3.88418372,4,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,484
+https://1tygy2.lat/5qjfdrqj/oViueb/7,1,https://1tygy2.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.458546099,8,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1982
+https://1tfyhj.lat/5qjfdrqj/oViueb/7,1,https://1tfyhj.lat/5qjfdrqj/oViueb/7,Suspicious,11,2,4,0,5,4.326465891,8,gcash.com,0,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1397
+https://1tctt2.lat/5qjfdrqj/oViueb/7,1,https://1tctt2.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.305496794,8,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1416
+https://1hgvsh.lat/5qjfdrqj/oViueb/7,1,https://1hgvsh.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.416607905,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1518
+https://1hbbul.lat/5qjfdrqj/oViueb/7,1,https://1hbbul.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.305496794,8,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2275
+https://1hbskl.lat/5qjfdrqj/oViueb/7,1,https://1hbskl.lat/5qjfdrqj/oViueb/7,Suspicious,11,2,4,0,5,4.382021447,8,paypal.com,0,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1356
+https://11hjyj.lat/5qjfdrqj/oViueb/7,1,https://11hjyj.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.326465891,9,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1384
+https://0jas45.lat/5qjfdrqj/oViueb/7,1,https://0jas45.lat/5qjfdrqj/oViueb/7,Suspicious,11,2,4,0,5,4.361052349,7,gcash.com,0,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1332
+https://0ajh77.lat/5qjfdrqj/oViueb/7,1,https://0ajh77.lat/5qjfdrqj/oViueb/7,Suspicious,10,2,3,0,5,4.284527696,8,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1849
+https://btworld-shop.fourthwall.com/,1,https://btworld-shop.fourthwall.com/,Suspicious,6,2,0,0,4,4.051462154,8,google.com,27,Squarespace Domains II LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,2156
+https://relay-planning.com/,1,https://relay-planning.com/,Suspicious,10,2,3,0,5,4.106377317,10,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1430
+https://edf-reclamation.com/pages/remboursement.php,1,https://edf-reclamation.com/pages/remboursement.php,Suspicious,9,2,2,0,5,4.211066028,10,amazon.com,0,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,15427
+https://edf-reclamation.com/captcha.php,1,https://edf-reclamation.com/captcha.php,Suspicious,9,2,2,0,5,4.015920808,10,amazon.com,0,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,12197
+https://edrtyutryu0.weeblysite.com/,1,https://edrtyutryu0.weeblysite.com/,Suspicious,6,2,0,0,4,4.068728289,8,google.com,12,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2774
+https://sblsecoerc.com,1,https://sblsecoerc.com,Suspicious,8,0,3,0,5,3.663532755,8,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1405
+https://sblsecackbi.com,1,https://sblsecackbi.com,Suspicious,8,0,3,0,5,3.849223912,9,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1469
+https://sblsecorgan.com,1,https://sblsecorgan.com,Suspicious,7,0,2,0,5,3.96900163,9,google.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1690
+https://sblsecprete.com,1,https://sblsecprete.com,Suspicious,7,0,2,0,5,3.642489673,10,google.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1473
+https://sblseceamail.com,1,https://sblseceamail.com,Suspicious,8,0,3,0,5,3.803508855,10,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1283
+https://sblseceorf.com,1,https://sblseceorf.com,Suspicious,7,0,2,0,5,3.788754914,8,facebook.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1443
+https://sblsecwayne.com,1,https://sblsecwayne.com,Suspicious,7,0,2,0,5,3.96900163,9,gcash.com,0,Aceville Pte. Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1355
+https://sblsecarlke.com,1,https://sblsecarlke.com,Suspicious,8,0,3,0,5,3.882045108,9,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1446
+https://sblsecord.com,1,https://sblsecord.com,Suspicious,8,0,3,0,5,3.784941827,7,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1151
+https://sblcelewom.com,1,https://sblcelewom.com,Suspicious,8,0,3,0,5,3.732158891,7,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2379
+https://sblecamera.com,1,https://sblecamera.com,Suspicious,8,0,3,0,5,3.823067982,8,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1416
+https://sblcarlik.com,1,https://sblcarlik.com,Suspicious,8,0,3,0,5,3.916126947,7,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1548
+https://sblseperous.com,1,https://sblseperous.com,Suspicious,8,0,3,0,5,3.74095326,9,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1391
+http://allegro-pl-oferta7171357908073.cfd,1,http://allegro-pl-oferta7171357908073.cfd,Suspicious,10,2,3,0,5,4.393898956,28,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1839
+http://allegro-pl-oferta92080765.cfd,1,http://allegro-pl-oferta92080765.cfd,Suspicious,10,2,3,0,5,4.405764585,23,google.com,,,0,FALSE,FALSE,FALSE,FALSE,FALSE,1616
+https://gandi.net,0,https://gandi.net,Safe,4,0,0,0,4,3.572469459,7,gcash.com,26,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,3324
+https://google-analytics.com,0,https://google-analytics.com,Safe,2,2,0,0,0,4.039148672,10,google.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2804
+https://msedge.net,0,https://msedge.net,Safe,5,0,0,0,5,3.419381946,7,google.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11158
+https://cdninstagram.com,0,https://cdninstagram.com,Suspicious,7,0,2,0,5,3.886842188,9,unionbank.com,11,"RegistrarSafe, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1371
+https://windows.com,0,https://windows.com,Safe,4,0,0,0,4,3.721611724,6,amazon.com,30,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3744
+https://yandex.net,0,https://yandex.net,Safe,4,0,0,0,4,3.572431251,8,paypal.com,25,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,5662
+https://wac-msedge.net,0,https://wac-msedge.net,Suspicious,7,0,2,0,5,3.845350937,11,facebook.com,3,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1386
+https://googleadservices.com,0,https://googleadservices.com,Safe,2,2,0,0,0,4.012188404,10,google.com,22,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1364
+https://opera.com,0,https://opera.com,Safe,0,0,0,0,0,3.616874606,5,google.com,26,NameWeb BVBA,0,FALSE,TRUE,TRUE,FALSE,FALSE,3244
+https://googledomains.com,0,https://googledomains.com,Safe,0,0,0,0,0,3.92385619,7,google.com,22,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1666
+https://samsung.com,0,https://samsung.com,Safe,0,0,0,0,0,3.681880803,5,amazon.com,31,Whois Corp.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1993
+https://baidu.com,0,https://baidu.com,Safe,0,0,0,0,0,3.852168724,5,paypal.com,26,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,5546
+https://rbxcdn.com,0,https://rbxcdn.com,Suspicious,7,0,2,0,5,3.836591668,5,amazon.com,12,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2398
+https://aiv-cdn.net,0,https://aiv-cdn.net,Suspicious,7,0,2,0,5,3.787143961,8,amazon.com,10,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1205
+https://cloudflare-dns.com,0,https://cloudflare-dns.com,Safe,2,2,0,0,0,4.16197818,11,google.com,7,"Cloudflare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1683
+https://blogspot.com,0,https://blogspot.com,Safe,4,0,0,0,4,3.546439345,6,google.com,25,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,6389
+https://a2z.com,0,https://a2z.com,Suspicious,7,0,2,0,5,3.640223929,4,amazon.com,31,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1036
+https://snapchat.com,0,https://snapchat.com,Safe,4,0,0,0,4,3.48418372,6,paypal.com,13,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1261
+https://unity3d.com,0,https://unity3d.com,Safe,0,0,0,0,0,3.892407119,6,unionbank.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1892
+https://ui.com,0,https://ui.com,Safe,0,0,0,0,0,3.521640636,5,gcash.com,30,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1356
+https://reddit.com,0,https://reddit.com,Safe,5,0,0,0,5,3.683542362,6,google.com,20,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1974
+https://nic.ru,0,https://nic.ru,Safe,5,0,1,0,4,3.521640636,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,6154
+https://nginx.org,0,https://nginx.org,Safe,0,0,0,0,0,3.616874606,7,gov.ph,20,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2863
+https://intuit.com,0,https://intuit.com,Safe,4,0,0,0,4,3.503258335,6,google.com,31,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2414
+https://app-analytics-services.com,0,https://app-analytics-services.com,Suspicious,8,2,2,0,4,4.057476076,15,facebook.com,14,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1662
+https://vk.com,0,https://vk.com,Safe,5,0,0,0,5,3.521640636,5,gcash.com,28,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,1651
+https://cdn77.org,0,https://cdn77.org,Suspicious,7,0,2,0,5,3.734521665,8,gcash.com,12,"Gransy, s.r.o.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2296
+https://amazon-adsystem.com,0,https://amazon-adsystem.com,Safe,0,0,0,0,0,3.902311576,9,amazon.com,14,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2563
+https://wa.me,0,https://wa.me,Safe,5,0,1,0,4,3.39274741,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2115
+https://sentry.io,0,https://sentry.io,Safe,1,0,1,0,0,3.572469459,7,shopee.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1181
+https://t.me,0,https://t.me,Safe,1,0,1,0,0,3.022055209,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2358
+https://outlook.com,0,https://outlook.com,Safe,0,0,0,0,0,3.471354487,5,facebook.com,31,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3813
+https://nginx.com,0,https://nginx.com,Safe,0,0,0,0,0,3.734521665,5,gcash.com,20,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2983
+https://bytefcdn-oversea.com,0,https://bytefcdn-oversea.com,Suspicious,9,2,2,0,5,4.182005815,14,google.com,3,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1149
+https://dropbox.com,0,https://dropbox.com,Safe,0,0,0,0,0,3.681880803,6,google.com,30,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2242
+https://europa.eu,0,https://europa.eu,Safe,1,0,1,0,0,3.499227547,7,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3034
+https://nist.gov,0,https://nist.gov,Safe,1,0,1,0,0,3.452819531,6,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3866
+https://msftncsi.com,0,https://msftncsi.com,Suspicious,8,0,3,0,5,3.546439345,5,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1170
+https://telekom.de,0,https://telekom.de,Safe,5,0,1,0,4,3.530493057,6,ateneo.edu,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2463
+https://lencr.org,0,https://lencr.org,Safe,4,0,0,0,4,3.734521665,7,ateneo.edu,5,"Cloudflare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2722
+https://app-measurement.com,0,https://app-measurement.com,Safe,4,0,0,0,4,3.828237502,9,facebook.com,31,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1675
+https://adnxs.com,0,https://adnxs.com,Safe,0,0,0,0,0,3.734521665,5,paypal.com,17,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2617
+https://github.io,0,https://github.io,Suspicious,6,0,1,0,5,3.4548224,7,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,853
+https://apache.org,0,https://apache.org,Safe,0,0,0,0,0,3.614369446,7,amazon.com,30,"NameCheap, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1497
+https://gravatar.com,0,https://gravatar.com,Safe,0,0,0,0,0,3.646439345,6,paypal.com,21,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3990
+https://epicgames.com,0,https://epicgames.com,Safe,0,0,0,0,0,3.725650756,7,google.com,30,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,6789
+https://criteo.com,0,https://criteo.com,Safe,0,0,0,0,0,3.572431251,6,google.com,20,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1604
+https://dns.google,0,https://dns.google,Safe,0,0,0,0,0,3.614369446,8,google.com,7,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,999
+https://applovin.com,0,https://applovin.com,Safe,0,0,0,0,0,3.78418372,5,google.com,26,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2785
+https://one.one,0,https://one.one,Safe,0,0,0,0,0,3.240223929,6,gov.ph,10,One.com A/S,0,FALSE,TRUE,TRUE,FALSE,FALSE,5657
+https://xiaomi.com,0,https://xiaomi.com,Safe,0,0,0,0,0,3.614369446,5,amazon.com,22,"eName Technology Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3286
+https://userapi.com,0,https://userapi.com,Safe,5,0,0,0,5,3.826874882,6,paypal.com,17,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,2180
+https://tumblr.com,0,https://tumblr.com,Safe,0,0,0,0,0,3.683542362,5,google.com,19,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3003
+https://pki.goog,0,https://pki.goog,Safe,0,0,0,0,0,3.375,7,bpi.com.ph,9,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,969
+https://health.mil,0,https://health.mil,Suspicious,8,0,3,0,5,3.419381946,7,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,15219
+https://ggpht.com,0,https://ggpht.com,Suspicious,7,0,2,0,5,3.337175341,4,gcash.com,17,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1341
+https://tiktokcdn-us.com,0,https://tiktokcdn-us.com,Suspicious,7,0,2,0,5,3.834962501,10,amazon.com,4,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1234
+https://3gppnetwork.org,0,https://3gppnetwork.org,Suspicious,7,0,2,0,5,3.762267391,11,facebook.com,23,"Network Solutions, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1349
+https://okcdn.ru,0,https://okcdn.ru,Safe,1,0,1,0,0,3.75,7,bdo.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3530
+https://amazonvideo.com,0,https://amazonvideo.com,Safe,4,0,0,0,4,3.96900163,5,amazon.com,28,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1560
+https://miit.gov.cn,0,https://miit.gov.cn,Suspicious,11,3,3,0,5,3.681880803,2,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1143
+https://trbcdn.net,0,https://trbcdn.net,Safe,4,0,0,0,4,3.503258335,8,amazon.com,8,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,3766
+https://archive.org,0,https://archive.org,Safe,0,0,0,0,0,3.826874882,9,google.com,29,easyDNS Technologies Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2256
+https://paypal.com,0,https://paypal.com,Safe,5,0,0,0,5,3.572431251,0,paypal.com,26,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3067
+https://nytimes.com,0,https://nytimes.com,Safe,5,0,0,0,5,3.681880803,6,google.com,31,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1754
+https://ln-msedge.net,0,https://ln-msedge.net,Suspicious,7,0,2,0,5,3.653756708,10,upv.edu.ph,2,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1168
+https://steamserver.net,0,https://steamserver.net,Suspicious,7,0,2,0,5,3.447262499,11,ateneo.edu,17,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,998
+https://macromedia.com,0,https://macromedia.com,Safe,5,0,0,0,5,3.788754914,6,paymaya.com,26,Global Domain Group LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,11323
+https://amazon.dev,0,https://amazon.dev,Suspicious,7,0,2,0,5,3.836591668,3,amazon.com,6,Nom-IQ Limited dba Com Laude,0,FALSE,TRUE,FALSE,FALSE,FALSE,753
+https://myfritz.net,0,https://myfritz.net,Safe,4,0,0,0,4,3.721611724,8,gcash.com,28,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3890
+https://akamaized.net,0,https://akamaized.net,Suspicious,7,0,2,0,5,3.748994804,8,amazon.com,11,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1216
+https://nih.gov,0,https://nih.gov,Safe,5,0,1,0,4,3.506890596,6,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,4398
+https://f5.com,0,https://f5.com,Safe,0,0,0,0,0,3.521640636,5,gcash.com,29,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3494
+https://forms.gle,0,https://forms.gle,Safe,0,0,0,0,0,3.734521665,7,gov.ph,6,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1424
+https://pv-cdn.net,0,https://pv-cdn.net,Suspicious,7,0,2,0,5,3.572431251,7,upv.edu.ph,4,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1116
+https://rubiconproject.com,0,https://rubiconproject.com,Safe,0,0,0,0,0,3.921029622,10,unionbank.com,18,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3319
+https://flickr.com,0,https://flickr.com,Safe,0,0,0,0,0,3.836591668,6,google.com,22,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3050
+https://meraki.com,0,https://meraki.com,Safe,0,0,0,0,0,3.836591668,4,gcash.com,26,Squarespace Domains II LLC,0,FALSE,TRUE,TRUE,FALSE,FALSE,2715
+https://example.com,0,https://example.com,Safe,0,0,0,0,0,3.721611724,5,google.com,30,RESERVED-Internet Assigned Numbers Authority,0,FALSE,TRUE,TRUE,FALSE,FALSE,2646
+https://aliyuncs.com,0,https://aliyuncs.com,Safe,0,0,0,0,0,3.921928095,6,amazon.com,13,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2386
+https://registrar-servers.com,0,https://registrar-servers.com,Safe,5,0,0,0,5,3.784897703,14,gcash.com,18,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,7301
+https://casalemedia.com,0,https://casalemedia.com,Safe,0,0,0,0,0,3.795088586,8,paymaya.com,23,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,4020
+https://yandex.ru,0,https://yandex.ru,Safe,5,0,1,0,4,3.852168724,7,ateneo.edu,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2854
+https://cnn.com,0,https://cnn.com,Safe,5,0,0,0,5,3.373557262,4,gcash.com,32,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,1340
+https://nflxso.net,0,https://nflxso.net,Suspicious,7,0,2,0,5,3.572431251,8,gcash.com,9,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,990
+https://shopify.com,0,https://shopify.com,Safe,0,0,0,0,0,3.616348566,5,paypal.com,31,"Register.com - Network Solutions, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2192
+https://adriver.ru,0,https://adriver.ru,Safe,1,0,1,0,0,3.683542362,7,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4133
+https://medium.com,0,https://medium.com,Safe,0,0,0,0,0,3.683542362,5,gcash.com,24,"Megazone Corp., dba HOSTING.KR",0,FALSE,TRUE,TRUE,FALSE,FALSE,2661
+https://imgsmail.ru,0,https://imgsmail.ru,Suspicious,6,0,1,0,5,3.721611724,9,paypal.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1399
+https://gmail.com,0,https://gmail.com,Safe,0,0,0,0,0,3.734521665,3,gcash.com,30,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,4419
+https://soundcloud.com,0,https://soundcloud.com,Safe,0,0,0,0,0,3.697845823,8,google.com,20,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1758
+https://wildberries.ru,0,https://wildberries.ru,Safe,1,0,1,0,0,3.788754914,11,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2437
+https://cdn-apple.com,0,https://cdn-apple.com,Suspicious,7,0,2,0,5,3.880179923,7,google.com,15,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,991
+https://kaspersky.com,0,https://kaspersky.com,Safe,0,0,0,0,0,3.784941827,7,facebook.com,28,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,TRUE,FALSE,FALSE,3765
+https://shifen.com,0,https://shifen.com,Safe,5,0,0,0,5,3.725480557,5,amazon.com,24,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11678
+https://discord.gg,0,https://discord.gg,Safe,1,0,1,0,0,3.614369446,7,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1405
+https://ttdns2.com,0,https://ttdns2.com,Suspicious,7,0,2,0,5,3.503258335,5,gcash.com,4,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1206
+https://w3.org,0,https://w3.org,Safe,0,0,0,0,0,3.521640636,6,gov.ph,31,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1772
+https://capcutapi.com,0,https://capcutapi.com,Suspicious,7,0,2,0,5,3.522571589,7,facebook.com,2,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1241
+https://adobe.io,0,https://adobe.io,Safe,1,0,1,0,0,3.625,6,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4011
+https://doubleverify.com,0,https://doubleverify.com,Suspicious,6,2,0,0,4,4.251629167,9,google.com,18,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1442
+https://theguardian.com,0,https://theguardian.com,Suspicious,7,2,0,0,5,4.055958152,9,paypal.com,31,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1722
+https://taboola.com,0,https://taboola.com,Safe,5,0,0,0,5,3.536886724,5,google.com,18,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",0,FALSE,TRUE,FALSE,FALSE,FALSE,2628
+https://rocket-cdn.com,0,https://rocket-cdn.com,Suspicious,7,0,2,0,5,3.845350937,8,facebook.com,5,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1310
+https://wsdvs.com,0,https://wsdvs.com,Suspicious,7,0,2,0,5,3.572469459,5,gcash.com,11,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1820
+https://miui.com,0,https://miui.com,Safe,4,0,0,0,4,3.5,5,gcash.com,30,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,4631
+https://dnsowl.com,0,https://dnsowl.com,Suspicious,7,0,2,0,5,3.725480557,5,google.com,15,"NameSilo, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1889
+https://msftconnecttest.com,0,https://msftconnecttest.com,Suspicious,8,0,3,0,5,3.457867131,10,facebook.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1043
+https://slack.com,0,https://slack.com,Safe,0,0,0,0,0,3.616874606,4,gcash.com,33,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2127
+https://mangosip.ru,0,https://mangosip.ru,Suspicious,8,0,3,0,5,3.826874882,6,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,11006
+https://demdex.net,0,https://demdex.net,Suspicious,7,0,2,0,5,3.419381946,8,ateneo.edu,17,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,1075
+https://azurewebsites.net,0,https://azurewebsites.net,Suspicious,7,0,2,0,5,3.73366069,13,ateneo.edu,13,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1472
+https://forbes.com,0,https://forbes.com,Safe,5,0,0,0,5,3.725480557,5,google.com,32,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1313
+https://android.com,0,https://android.com,Safe,4,0,0,0,4,3.826874882,5,amazon.com,28,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1489
+https://ozon.ru,0,https://ozon.ru,Safe,1,0,1,0,0,3.506890596,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3418
+https://t.co,0,https://t.co,Safe,1,0,1,0,0,3.022055209,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1232
+https://vungle.com,0,https://vungle.com,Safe,0,0,0,0,0,3.947702779,3,google.com,15,Moniker Online Services LLC,0,FALSE,TRUE,TRUE,FALSE,FALSE,5030
+https://twitch.tv,0,https://twitch.tv,Safe,5,0,0,0,5,3.169248696,7,bpi.com.ph,16,"MarkMonitor, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3075
+https://pubmatic.com,0,https://pubmatic.com,Safe,0,0,0,0,0,3.68418372,5,paymaya.com,18,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1524
+https://bbc.com,0,https://bbc.com,Safe,5,0,0,0,5,3.373557262,5,gcash.com,36,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1386
+https://chatgpt.com,0,https://chatgpt.com,Safe,0,0,0,0,0,3.40582225,6,google.com,3,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1873
+https://comcast.net,0,https://comcast.net,Safe,5,0,0,0,5,3.511085408,7,gcash.com,28,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,7878
+https://bbc.co.uk,0,https://bbc.co.uk,Safe,5,0,0,0,5,3.499227547,5,bpi.com.ph,30,British Broadcasting Corporation,0,FALSE,TRUE,FALSE,FALSE,FALSE,2270
+https://vedcdnlb.com,0,https://vedcdnlb.com,Suspicious,7,0,2,0,5,3.921928095,7,google.com,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),0,FALSE,TRUE,FALSE,FALSE,FALSE,1638
+https://discord.com,0,https://discord.com,Safe,0,0,0,0,0,3.616348566,6,amazon.com,25,"Cloudflare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1430
+https://creativecommons.org,0,https://creativecommons.org,Safe,0,0,0,0,0,3.958229169,14,facebook.com,24,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1313
+https://b-cdn.net,0,https://b-cdn.net,Safe,0,0,0,0,0,3.572469459,8,amazon.com,9,"Name.com, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2080
+https://jomodns.com,0,https://jomodns.com,Suspicious,7,0,2,0,5,3.576617645,5,google.com,16,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2118
+https://ttvnw.net,0,https://ttvnw.net,Suspicious,7,0,2,0,5,3.169248696,7,gov.ph,12,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1064
+https://ebay.com,0,https://ebay.com,Safe,0,0,0,0,0,3.75,4,gcash.com,30,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2466
+https://webex.com,0,https://webex.com,Safe,0,0,0,0,0,3.734521665,5,gcash.com,32,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3030
+https://weather.com,0,https://weather.com,Safe,0,0,0,0,0,3.681880803,5,gcash.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3940
+https://roku.com,0,https://roku.com,Safe,0,0,0,0,0,3.625,5,google.com,21,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4724
+https://scorecardresearch.com,0,https://scorecardresearch.com,Safe,0,0,0,0,0,3.633505995,12,securitybank.com,18,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,6821
+https://sourceforge.net,0,https://sourceforge.net,Safe,0,0,0,0,0,3.762267391,11,google.com,26,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3227
+https://godaddy.com,0,https://godaddy.com,Safe,0,0,0,0,0,3.681880803,5,google.com,26,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3152
+https://byteoversea.net,0,https://byteoversea.net,Suspicious,7,0,2,0,5,3.653996739,11,ateneo.edu,8,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1032
+https://cpanel.net,0,https://cpanel.net,Safe,0,0,0,0,0,3.46132014,7,paypal.com,25,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,4069
+https://netangels.ru,0,https://netangels.ru,Safe,1,0,1,0,0,3.68418372,8,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,6225
+https://ksyuncdn.com,0,https://ksyuncdn.com,Suspicious,7,0,2,0,5,3.821928095,7,paypal.com,11,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1384
+https://mit.edu,0,https://mit.edu,Suspicious,7,0,3,0,4,3.456564762,5,ateneo.edu,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2859
+https://apigee.net,0,https://apigee.net,Safe,5,0,0,0,5,3.419381946,6,gov.ph,30,"Network Solutions, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1380
+https://azurefd.net,0,https://azurefd.net,Suspicious,7,0,2,0,5,3.787143961,8,ateneo.edu,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3589
+https://sciencedirect.com,0,https://sciencedirect.com,Safe,0,0,0,0,0,3.70346519,11,facebook.com,28,SafeNames Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2617
+https://oracle.com,0,https://oracle.com,Safe,0,0,0,0,0,3.725480557,4,google.com,37,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2672
+https://imdb.com,0,https://imdb.com,Safe,4,0,0,0,4,3.625,5,amazon.com,29,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3957
+https://s-msedge.net,0,https://s-msedge.net,Suspicious,7,0,2,0,5,3.50869497,8,shopee.ph,11,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1067
+https://inmobi.com,0,https://inmobi.com,Safe,0,0,0,0,0,3.614369446,6,google.com,18,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3697
+https://heytapdl.com,0,https://heytapdl.com,Suspicious,7,0,2,0,5,3.78418372,5,paypal.com,6,Key-Systems GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,1284
+https://researchgate.net,0,https://researchgate.net,Safe,0,0,0,0,0,3.501629167,12,shopee.ph,17,Mesh Digital Limited,0,FALSE,TRUE,TRUE,FALSE,FALSE,3105
+https://salesforce.com,0,https://salesforce.com,Safe,0,0,0,0,0,3.788754914,7,facebook.com,27,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3820
+https://omtrdc.net,0,https://omtrdc.net,Suspicious,7,0,2,0,5,3.614369446,8,amazon.com,17,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,1117
+https://wikimedia.org,0,https://wikimedia.org,Safe,4,0,0,0,4,3.975418018,10,paymaya.com,22,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3411
+https://edgecdn.ru,0,https://edgecdn.ru,Suspicious,6,0,1,0,5,3.725480557,7,bdo.com.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3177
+https://canva.com,0,https://canva.com,Safe,0,0,0,0,0,3.616874606,4,paypal.com,24,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1947
+https://safebrowsing.apple,0,https://safebrowsing.apple,Suspicious,11,2,4,0,5,4.026986833,13,facebook.com,0,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1266
+https://ivi.ru,0,https://ivi.ru,Safe,1,0,1,0,0,3.378783493,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,6632
+https://openai.com,0,https://openai.com,Safe,0,0,0,0,0,3.725480557,5,paypal.com,18,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1886
+https://doi.org,0,https://doi.org,Safe,0,0,0,0,0,3.506890596,5,gov.ph,26,"Cloudflare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1402
+https://youtube-nocookie.com,0,https://youtube-nocookie.com,Safe,4,0,0,0,4,3.937193209,12,facebook.com,16,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1243
+https://linktr.ee,0,https://linktr.ee,Safe,1,0,1,0,0,3.572469459,8,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1034
+https://wixsite.com,0,https://wixsite.com,Suspicious,7,0,2,0,5,3.681880803,6,google.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1166
+https://ampproject.org,0,https://ampproject.org,Safe,4,0,0,0,4,3.754441846,9,amazon.com,10,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1850
+https://hubspot.com,0,https://hubspot.com,Safe,0,0,0,0,0,3.471354487,6,paypal.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1756
+https://crashlytics.com,0,https://crashlytics.com,Safe,0,0,0,0,0,3.729446195,8,gcash.com,14,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2488
+https://mzstatic.com,0,https://mzstatic.com,Safe,0,0,0,0,0,3.521928095,5,amazon.com,31,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2225
+https://temu.com,0,https://temu.com,Safe,0,0,0,0,0,3.452819531,5,gcash.com,22,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2195
+https://arubanetworks.com,0,https://arubanetworks.com,Suspicious,8,2,0,0,6,4.05366069,9,facebook.com,23,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,TRUE,FALSE,2225
+https://allawnos.com,0,https://allawnos.com,Suspicious,7,0,2,0,5,3.721928095,5,amazon.com,4,Key-Systems GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,1149
+https://fastly-edge.com,0,https://fastly-edge.com,Suspicious,9,2,2,0,5,4.055958152,9,google.com,2,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1277
+https://cisco.com,0,https://cisco.com,Safe,4,0,0,0,4,3.337175341,4,gcash.com,38,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3616
+https://steampowered.com,0,https://steampowered.com,Safe,4,0,0,0,4,3.772055209,10,google.com,25,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,6396
+https://googleblog.com,0,https://googleblog.com,Safe,4,0,0,0,4,3.606936732,4,google.com,23,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3866
+https://appsflyer.com,0,https://appsflyer.com,Safe,4,0,0,0,4,3.880179923,5,paypal.com,28,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3653
+https://mtgglobals.com,0,https://mtgglobals.com,Safe,5,0,0,0,5,3.697845823,5,google.com,1,IONOS SE,0,FALSE,TRUE,FALSE,FALSE,FALSE,1294
+https://cedexis.net,0,https://cedexis.net,Suspicious,7,0,2,0,5,3.536886724,9,ateneo.edu,16,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1270
+https://ipv4only.arpa,0,https://ipv4only.arpa,Suspicious,6,0,1,0,5,3.880179923,9,upv.edu.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,10408
+https://who.int,0,https://who.int,Safe,0,0,0,0,0,3.323231429,6,gov.ph,27,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2644
+https://my.com,0,https://my.com,Suspicious,8,0,3,0,5,3.378783493,5,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1294
+https://amazon.co.uk,0,https://amazon.co.uk,Safe,4,0,0,0,4,3.821928095,3,amazon.com,31,"Amazon.com, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3522
+https://2mdn.net,0,https://2mdn.net,Suspicious,7,0,2,0,5,3.452819531,7,amazon.com,20,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1184
+https://adsrvr.org,0,https://adsrvr.org,Safe,0,0,0,0,0,3.572431251,8,amazon.com,15,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2086
+https://hp.com,0,https://hp.com,Safe,4,0,0,0,4,3.235926351,5,paypal.com,39,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,9898
+https://tinyurl.com,0,https://tinyurl.com,Safe,0,0,0,0,0,3.892407119,5,paypal.com,23,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1808
+https://samsungcloudsolution.com,0,https://samsungcloudsolution.com,Suspicious,7,0,2,0,5,3.890319531,16,facebook.com,15,Whois Corp.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1065
+https://openx.net,0,https://openx.net,Safe,0,0,0,0,0,3.337175341,7,ateneo.edu,29,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2137
+https://cdngslb.com,0,https://cdngslb.com,Safe,5,0,0,0,5,3.826874882,5,google.com,7,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11091
+https://nr-data.net,0,https://nr-data.net,Suspicious,7,0,2,0,5,3.511085408,8,paymaya.com,11,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1059
+https://ubuntu.com,0,https://ubuntu.com,Safe,0,0,0,0,0,3.530493057,6,google.com,21,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3479
+https://launchdarkly.com,0,https://launchdarkly.com,Safe,2,2,0,0,0,4.084962501,9,facebook.com,11,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2050
+https://facebook.net,0,https://facebook.net,Suspicious,7,0,2,0,5,3.78418372,3,facebook.com,21,"RegistrarSafe, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1029
+https://opendns.com,0,https://opendns.com,Safe,4,0,0,0,4,3.616348566,6,paypal.com,22,PDR Ltd. d/b/a PublicDomainRegistry.com,0,FALSE,TRUE,FALSE,FALSE,FALSE,4454
+https://adtrafficquality.google,0,https://adtrafficquality.google,Safe,2,2,0,0,0,4.155651552,18,paypal.com,2,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1346
+https://samsungcloud.com,0,https://samsungcloud.com,Suspicious,7,0,2,0,5,3.886842188,9,amazon.com,16,Whois Corp.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1152
+https://akamaihd.net,0,https://akamaihd.net,Suspicious,7,0,2,0,5,3.646439345,8,amazon.com,16,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1007
+https://mikrotik.com,0,https://mikrotik.com,Safe,0,0,0,0,0,3.58418372,5,google.com,12,"TurnCommerce, Inc. DBA NameBright.com",0,FALSE,TRUE,TRUE,FALSE,FALSE,3927
+https://issuu.com,0,https://issuu.com,Safe,0,0,0,0,0,3.4548224,5,gcash.com,18,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3390
+https://media-amazon.com,0,https://media-amazon.com,Suspicious,8,0,3,0,5,3.938721876,4,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1085
+https://mts.ru,0,https://mts.ru,Suspicious,7,0,3,0,4,3.182005815,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1987
+https://stripe.com,0,https://stripe.com,Safe,0,0,0,0,0,3.572431251,5,google.com,30,SafeNames Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3978
+https://playstation.net,0,https://playstation.net,Suspicious,7,0,2,0,5,3.58401237,10,paypal.com,25,"Todaynic.com, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1008
+https://launchpad.net,0,https://launchpad.net,Safe,0,0,0,0,0,3.689703732,9,paypal.com,21,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2827
+https://tiktokv.us,0,https://tiktokv.us,Suspicious,8,0,3,0,5,3.392147224,7,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,700
+https://static.microsoft,0,https://static.microsoft,Suspicious,7,0,2,0,5,3.569773835,12,amazon.com,2,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1633
+https://samsungqbe.com,0,https://samsungqbe.com,Suspicious,7,0,2,0,5,3.970573096,8,google.com,11,Whois Corp.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1383
+https://netflix.net,0,https://netflix.net,Safe,0,0,0,0,0,3.511085408,9,google.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,4871
+https://grammarly.com,0,https://grammarly.com,Safe,4,0,0,0,4,3.784941827,6,paypal.com,16,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2152
+https://weebly.com,0,https://weebly.com,Safe,0,0,0,0,0,3.836591668,5,google.com,19,SafeNames Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2510
+https://mozilla.com,0,https://mozilla.com,Safe,0,0,0,0,0,3.721611724,5,google.com,29,"NameCheap, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3150
+https://harvard.edu,0,https://harvard.edu,Safe,1,0,1,0,0,3.616348566,6,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1353
+https://spo-msedge.net,0,https://spo-msedge.net,Suspicious,7,0,2,0,5,3.629219687,9,shopee.ph,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1050
+https://aol.com,0,https://aol.com,Safe,4,0,0,0,4,3.506890596,4,google.com,30,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2787
+https://3lift.com,0,https://3lift.com,Safe,0,0,0,0,0,3.690116518,5,gcash.com,12,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1173
+https://sc-gw.com,0,https://sc-gw.com,Suspicious,7,0,2,0,5,3.616874606,4,gcash.com,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1243
+https://spov-msedge.net,0,https://spov-msedge.net,Suspicious,7,0,2,0,5,3.729446195,10,upv.edu.ph,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1096
+https://www.gov.uk,0,https://www.gov.uk,Safe,4,3,1,0,0,3.572431251,2,gov.ph,,Nominet UK,0,FALSE,TRUE,TRUE,FALSE,FALSE,4224
+https://cloud.microsoft,0,https://cloud.microsoft,Safe,0,0,0,0,0,3.849223912,11,bdo.com.ph,10,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3126
+https://reuters.com,0,https://reuters.com,Safe,4,0,0,0,4,3.576617645,7,google.com,32,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4288
+https://shalltry.com,0,https://shalltry.com,Safe,4,0,0,0,4,3.68418372,7,google.com,7,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2548
+https://php.net,0,https://php.net,Safe,0,0,0,0,0,3.006238929,6,gov.ph,28,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3423
+https://alibabadns.com,0,https://alibabadns.com,Suspicious,7,0,2,0,5,3.879664005,6,unionbank.com,12,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1251
+https://azureedge.net,0,https://azureedge.net,Suspicious,7,0,2,0,5,3.689703732,10,upv.edu.ph,11,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1268
+https://forter.com,0,https://forter.com,Safe,0,0,0,0,0,3.572431251,5,google.com,24,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,2415
+https://appcenter.ms,0,https://appcenter.ms,Safe,3,0,3,0,0,3.546439345,7,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,5446
+https://ys7.com,0,https://ys7.com,Safe,0,0,0,0,0,3.506890596,4,gcash.com,21,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4767
+https://sharethrough.com,0,https://sharethrough.com,Safe,0,0,0,0,0,3.720175521,9,facebook.com,16,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2542
+https://reg.ru,0,https://reg.ru,Safe,5,0,1,0,4,3.378783493,5,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3625
+https://tradingview.com,0,https://tradingview.com,Safe,2,2,0,0,0,4.142914673,9,google.com,15,DomainSpot LLC,0,FALSE,TRUE,TRUE,FALSE,FALSE,2165
+https://pages.dev,0,https://pages.dev,Safe,0,0,0,0,0,3.499227547,7,paypal.com,5,"CloudFlare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1226
+https://bidswitch.net,0,https://bidswitch.net,Suspicious,7,0,2,0,5,3.630412661,10,gcash.com,13,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1183
+https://pangle.io,0,https://pangle.io,Suspicious,8,0,3,0,5,3.734521665,5,google.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,446
+https://booking.com,0,https://booking.com,Safe,0,0,0,0,0,3.787143961,5,google.com,27,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2589
+https://go.com,0,https://go.com,Safe,4,0,0,0,4,3.378783493,4,google.com,27,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3492
+https://drom.ru,0,https://drom.ru,Safe,1,0,1,0,0,3.506890596,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3872
+https://dailymail.co.uk,0,https://dailymail.co.uk,Safe,2,2,0,0,0,4.001822826,8,paypal.com,30,Nom-IQ Limited t/a Com Laude,0,FALSE,TRUE,TRUE,FALSE,FALSE,2145
+https://jsdelivr.net,0,https://jsdelivr.net,Safe,5,0,0,0,5,3.78418372,10,google.com,13,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,10938
+https://ibm.com,0,https://ibm.com,Safe,0,0,0,0,0,3.506890596,5,gcash.com,39,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1791
+https://wiley.com,0,https://wiley.com,Safe,4,0,0,0,4,3.852168724,5,google.com,31,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,4094
+https://weibo.com,0,https://weibo.com,Safe,4,0,0,0,4,3.734521665,5,amazon.com,26,"Xiamen 35.com Information Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3173
+https://alibaba.com,0,https://alibaba.com,Safe,0,0,0,0,0,3.681880803,5,paymaya.com,26,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4098
+https://cdc.gov,0,https://cdc.gov,Safe,1,0,1,0,0,3.506890596,6,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1638
+https://ea.com,0,https://ea.com,Safe,4,0,0,0,4,3.521640636,4,gcash.com,32,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1498
+https://smartadserver.com,0,https://smartadserver.com,Safe,0,0,0,0,0,3.75326969,11,facebook.com,23,SafeBrands SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,3941
+https://dailymotion.com,0,https://dailymotion.com,Safe,0,0,0,0,0,3.849223912,7,amazon.com,20,Nameshield SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,4902
+https://washingtonpost.com,0,https://washingtonpost.com,Safe,4,0,0,0,4,3.719294526,11,facebook.com,30,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1595
+https://taobao.com,0,https://taobao.com,Safe,0,0,0,0,0,3.419381946,4,paypal.com,22,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3220
+https://nature.com,0,https://nature.com,Safe,5,0,0,0,5,3.794653474,5,google.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3953
+https://adsafeprotected.com,0,https://adsafeprotected.com,Safe,4,0,0,0,4,3.763965743,12,facebook.com,15,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4875
+https://douyincdn.com,0,https://douyincdn.com,Suspicious,7,0,2,0,5,3.820888851,7,unionbank.com,8,"eName Technology Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1223
+https://wsj.com,0,https://wsj.com,Safe,4,0,0,0,4,3.506890596,4,gcash.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1678
+https://tiktokrow-cdn.com,0,https://tiktokrow-cdn.com,Suspicious,9,0,4,0,5,3.89366069,11,google.com,0,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1101
+https://sc-cdn.net,0,https://sc-cdn.net,Suspicious,7,0,2,0,5,3.46132014,8,amazon.com,10,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1081
+https://mi.com,0,https://mi.com,Safe,3,0,3,0,0,3.378783493,5,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1630
+https://outbrain.com,0,https://outbrain.com,Safe,5,0,0,0,5,3.88418372,7,paypal.com,21,"Network Solutions, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2198
+https://checkpoint.com,0,https://checkpoint.com,Safe,0,0,0,0,0,3.663532755,8,facebook.com,31,Domain The Net Technologies Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1679
+https://1c.ru,0,https://1c.ru,Safe,1,0,1,0,0,3.39274741,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2421
+https://debian.org,0,https://debian.org,Safe,5,0,0,0,5,3.947702779,8,paypal.com,26,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,4419
+https://etsy.com,0,https://etsy.com,Safe,5,0,0,0,5,3.452819531,4,gcash.com,21,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4131
+https://aliyun.com,0,https://aliyun.com,Safe,0,0,0,0,0,3.947702779,4,amazon.com,18,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,7363
+https://espn.com,0,https://espn.com,Safe,4,0,0,0,4,3.5,5,paypal.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2524
+https://qlivecdn.com,0,https://qlivecdn.com,Suspicious,9,2,2,0,5,4.021928095,7,amazon.com,3,"DNSPod, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1480
+https://wyzecam.com,0,https://wyzecam.com,Safe,0,0,0,0,0,3.826874882,6,paypal.com,8,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3443
+https://springer.com,0,https://springer.com,Safe,5,0,0,0,5,3.821928095,7,google.com,28,EuroDNS S.A.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4688
+https://telegraph.co.uk,0,https://telegraph.co.uk,Safe,0,0,0,0,0,3.882045108,9,gcash.com,30,Markmonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3536
+https://ripn.net,0,https://ripn.net,Safe,5,0,0,0,5,3.327819531,7,gov.ph,31,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,11254
+https://huawei.com,0,https://huawei.com,Safe,0,0,0,0,0,3.836591668,5,amazon.com,25,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4343
+https://clarity.ms,0,https://clarity.ms,Safe,5,0,0,0,5,3.683542362,8,gcash.com,8,MarkMonitor,0,FALSE,TRUE,FALSE,FALSE,FALSE,3945
+https://gnu.org,0,https://gnu.org,Safe,4,0,0,0,4,3.506890596,5,gov.ph,30,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,3719
+https://bloomberg.com,0,https://bloomberg.com,Safe,4,0,0,0,4,3.784941827,6,google.com,32,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2275
+https://wbx2.com,0,https://wbx2.com,Safe,5,0,0,0,5,3.75,5,gcash.com,12,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,10907
+https://bamgrid.com,0,https://bamgrid.com,Suspicious,7,0,2,0,5,3.93213804,5,amazon.com,13,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1635
+https://naver.com,0,https://naver.com,Safe,4,0,0,0,4,3.852168724,5,paypal.com,28,"Gabia, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3067
+https://gosuslugi.ru,0,https://gosuslugi.ru,Safe,1,0,1,0,0,3.546439345,9,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2307
+https://t-mobile.com,0,https://t-mobile.com,Safe,4,0,0,0,4,3.78418372,5,google.com,25,Deutsche Telekom AG,0,FALSE,TRUE,FALSE,FALSE,FALSE,2924
+https://un.org,0,https://un.org,Safe,0,0,0,0,0,3.521640636,6,gov.ph,30,"Network Solutions, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,4592
+https://cmediahub.ru,0,https://cmediahub.ru,Suspicious,8,0,3,0,5,3.921928095,10,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1630
+https://xcal.tv,0,https://xcal.tv,Suspicious,7,0,2,0,5,3.456564762,6,gcash.com,16,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2449
+https://wp.com,0,https://wp.com,Safe,0,0,0,0,0,3.378783493,5,paypal.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2073
+https://worldfcdn2.com,0,https://worldfcdn2.com,Suspicious,9,2,2,0,5,4.004886164,9,google.com,4,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1660
+https://kaspersky-labs.com,0,https://kaspersky-labs.com,Suspicious,7,2,0,0,5,4.008132026,11,paypal.com,26,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,5197
+https://google.de,0,https://google.de,Safe,1,0,1,0,0,3.499227547,3,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,793
+https://avast.com,0,https://avast.com,Safe,4,0,0,0,4,3.4548224,3,gcash.com,28,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2124
+https://myshopify.com,0,https://myshopify.com,Safe,0,0,0,0,0,3.630412661,5,paypal.com,31,"Register.com - Network Solutions, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2216
+https://deepintent.com,0,https://deepintent.com,Safe,0,0,0,0,0,3.606936732,8,unionbank.com,12,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,7456
+https://google.com.br,0,https://google.com.br,Safe,3,0,3,0,0,3.784941827,4,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2739
+https://gcdn.co,0,https://gcdn.co,Suspicious,6,0,1,0,5,3.506890596,4,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1311
+https://nease.net,0,https://nease.net,Safe,5,0,0,0,5,3.175123135,6,gcash.com,28,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11109
+https://nasa.gov,0,https://nasa.gov,Safe,1,0,1,0,0,3.5,5,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2220
+https://duckdns.org,0,https://duckdns.org,Safe,5,0,0,0,5,3.826874882,9,amazon.com,12,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,11283
+https://dnsmadeeasy.com,0,https://dnsmadeeasy.com,Safe,4,0,0,0,4,3.795088586,8,paymaya.com,24,"Wild West Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,4421
+https://verisign.com,0,https://verisign.com,Safe,4,0,0,0,4,3.921928095,7,amazon.com,30,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3258
+https://businessinsider.com,0,https://businessinsider.com,Safe,0,0,0,0,0,3.852497577,12,unionbank.com,27,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1821
+https://msidentity.com,0,https://msidentity.com,Safe,5,0,0,0,5,3.732158891,8,google.com,31,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1220
+https://stanford.edu,0,https://stanford.edu,Safe,1,0,1,0,0,3.78418372,5,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2296
+https://inner-active.mobi,0,https://inner-active.mobi,Suspicious,7,2,0,0,5,4.02346519,13,unionbank.com,15,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,11063
+https://akam.net,0,https://akam.net,Suspicious,7,0,2,0,5,3.452819531,7,paypal.com,26,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1063
+https://cornell.edu,0,https://cornell.edu,Safe,1,0,1,0,0,3.826874882,5,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3821
+https://tiktokcdn-eu.com,0,https://tiktokcdn-eu.com,Suspicious,7,0,2,0,5,3.918295834,10,google.com,2,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1070
+https://moe.video,0,https://moe.video,Safe,3,0,3,0,0,3.616874606,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3824
+https://heytapmobile.com,0,https://heytapmobile.com,Suspicious,7,0,2,0,5,3.886842188,9,google.com,6,Key-Systems GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,1194
+https://ok.ru,0,https://ok.ru,Safe,1,0,1,0,0,3.39274741,4,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2830
+https://goskope.com,0,https://goskope.com,Suspicious,7,0,2,0,5,3.576617645,4,google.com,13,"Name.com, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1149
+https://branch.io,0,https://branch.io,Safe,1,0,1,0,0,3.734521665,6,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1147
+https://list-manage.com,0,https://list-manage.com,Safe,5,0,0,0,5,3.96900163,8,paymaya.com,19,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,10993
+https://consultant.ru,0,https://consultant.ru,Safe,1,0,1,0,0,3.630412661,10,unionbank.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3799
+https://foxnews.com,0,https://foxnews.com,Safe,4,0,0,0,4,3.826874882,6,google.com,30,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1578
+https://pixabay.com,0,https://pixabay.com,Safe,0,0,0,0,0,3.826874882,5,paypal.com,15,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1720
+https://indeed.com,0,https://indeed.com,Safe,0,0,0,0,0,3.725480557,6,google.com,27,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1625
+https://indexww.com,0,https://indexww.com,Safe,0,0,0,0,0,3.93213804,7,google.com,12,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3264
+https://unsplash.com,0,https://unsplash.com,Safe,0,0,0,0,0,3.68418372,5,gcash.com,12,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,4085
+https://bilibili.com,0,https://bilibili.com,Safe,0,0,0,0,0,3.521928095,7,google.com,21,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3360
+https://nvidia.com,0,https://nvidia.com,Safe,0,0,0,0,0,3.836591668,6,google.com,32,SafeNames Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3662
+https://twimg.com,0,https://twimg.com,Suspicious,7,0,2,0,5,3.572469459,5,gcash.com,17,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1162
+https://xhamster.com,0,https://xhamster.com,Safe,5,0,0,0,5,3.68418372,6,amazon.com,18,"NameCheap, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2387
+https://independent.co.uk,0,https://independent.co.uk,Safe,5,0,0,0,5,3.75326969,11,unionbank.com,29,Nom-IQ Limited t/a Com Laude,0,FALSE,TRUE,FALSE,FALSE,FALSE,2551
+https://ibyteimg.com,0,https://ibyteimg.com,Suspicious,7,0,2,0,5,3.78418372,7,paypal.com,6,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,2403
+https://cnbc.com,0,https://cnbc.com,Safe,0,0,0,0,0,3.452819531,4,gcash.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,7963
+https://yahoo.co.jp,0,https://yahoo.co.jp,Safe,5,0,1,0,4,3.471354487,7,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,1232
+https://zendesk.com,0,https://zendesk.com,Safe,0,0,0,0,0,3.826874882,6,gcash.com,20,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2061
+https://notamedia.ru,0,https://notamedia.ru,Safe,1,0,1,0,0,3.88418372,9,upv.edu.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,5601
+https://rambler.ru,0,https://rambler.ru,Safe,1,0,1,0,0,3.683542362,7,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4135
+https://mcafee.com,0,https://mcafee.com,Safe,4,0,0,0,4,3.614369446,5,google.com,25,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2859
+https://entrust.net,0,https://entrust.net,Safe,4,0,0,0,4,3.215841173,9,gcash.com,28,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3546
+https://vkuser.net,0,https://vkuser.net,Safe,5,0,0,0,5,3.572431251,8,gcash.com,8,Registrar of Domain Names REG.RU LLC,0,FALSE,TRUE,FALSE,FALSE,FALSE,11295
+https://media.net,0,https://media.net,Safe,0,0,0,0,0,3.572469459,6,gov.ph,30,"Network Solutions, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,4420
+https://sfx.ms,0,https://sfx.ms,Suspicious,7,0,2,0,5,3.182005815,5,gov.ph,13,MarkMonitor,0,FALSE,TRUE,FALSE,FALSE,FALSE,1163
+https://quickconnect.to,0,https://quickconnect.to,Safe,0,0,0,0,0,3.708132065,11,bpi.com.ph,12,Government of Kingdom of Tonga,0,FALSE,TRUE,TRUE,FALSE,FALSE,3480
+https://telegram.org,0,https://telegram.org,Safe,0,0,0,0,0,3.68418372,9,ateneo.edu,21,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2274
+https://quora.com,0,https://quora.com,Safe,0,0,0,0,0,3.734521665,5,google.com,25,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3535
+https://mynetname.net,0,https://mynetname.net,Suspicious,9,0,4,0,5,3.368042423,9,google.com,0,"Cloudflare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1936
+https://duckduckgo.com,0,https://duckduckgo.com,Safe,0,0,0,0,0,3.697845823,8,facebook.com,18,"NameCheap, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1521
+https://autodesk.com,0,https://autodesk.com,Safe,0,0,0,0,0,3.78418372,7,google.com,36,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4084
+https://online-metrix.net,0,https://online-metrix.net,Suspicious,7,0,2,0,5,3.78346519,14,bpi.com.ph,16,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1658
+https://globo.com,0,https://globo.com,Safe,0,0,0,0,0,3.572469459,4,google.com,26,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,5341
+https://steamcommunity.com,0,https://steamcommunity.com,Safe,5,0,0,0,5,3.777362795,11,amazon.com,19,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,11711
+https://google.co.uk,0,https://google.co.uk,Safe,0,0,0,0,0,3.68418372,3,google.com,26,Markmonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3423
+https://npr.org,0,https://npr.org,Safe,0,0,0,0,0,3.373557262,6,gov.ph,31,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1345
+https://kwai.net,0,https://kwai.net,Safe,5,0,0,0,5,3.577819531,7,gcash.com,26,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,11060
+https://eventbrite.com,0,https://eventbrite.com,Safe,0,0,0,0,0,3.788754914,9,google.com,19,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2052
+https://sohu.com,0,https://sohu.com,Safe,0,0,0,0,0,3.375,5,google.com,27,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,8217
+https://dell.com,0,https://dell.com,Safe,0,0,0,0,0,3.625,5,google.com,37,SafeNames Ltd.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3351
+https://teamviewer.com,0,https://teamviewer.com,Safe,0,0,0,0,0,3.845350937,8,amazon.com,21,RegistryGate GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2718
+https://dnspod.net,0,https://dnspod.net,Safe,5,0,0,0,5,3.350209029,8,paypal.com,19,"DNSPod, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11018
+https://avcdn.net,0,https://avcdn.net,Suspicious,7,0,2,0,5,3.572469459,7,amazon.com,9,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1133
+https://telegram.me,0,https://telegram.me,Safe,1,0,1,0,0,3.536886724,9,bpi.com.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2267
+https://salesforceliveagent.com,0,https://salesforceliveagent.com,Suspicious,6,2,0,0,4,4.066784213,14,securitybank.com,14,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3606
+https://beian.gov.cn,0,https://beian.gov.cn,Suspicious,11,3,3,0,5,3.921928095,2,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,788
+https://hichina.com,0,https://hichina.com,Suspicious,7,0,2,0,5,3.576617645,6,amazon.com,29,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1931
+https://eset.com,0,https://eset.com,Safe,0,0,0,0,0,3.327819531,5,gcash.com,24,CSL Computer Service Langenbach GmbH d/b/a joker.com,0,FALSE,TRUE,TRUE,FALSE,FALSE,3545
+https://amazon.de,0,https://amazon.de,Safe,5,0,1,0,4,3.734521665,3,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,3323
+https://uber.com,0,https://uber.com,Safe,0,0,0,0,0,3.75,5,gcash.com,30,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2215
+https://mediatek.com,0,https://mediatek.com,Safe,0,0,0,0,0,3.78418372,5,amazon.com,29,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2182
+https://tiktokv.eu,0,https://tiktokv.eu,Suspicious,8,0,3,0,5,3.503258335,7,gov.ph,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,421
+https://statista.com,0,https://statista.com,Safe,0,0,0,0,0,3.303701696,6,gcash.com,19,InterNetX GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2283
+https://goodreads.com,0,https://goodreads.com,Safe,4,0,0,0,4,3.784941827,5,google.com,23,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3878
+https://plesk.com,0,https://plesk.com,Safe,0,0,0,0,0,3.616874606,4,gcash.com,26,EuroDNS S.A.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3579
+https://rutube.ru,0,https://rutube.ru,Safe,1,0,1,0,0,3.292770194,7,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4646
+https://googletagservices.com,0,https://googletagservices.com,Suspicious,7,0,2,0,5,3.900241771,11,google.com,16,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1036
+https://sberbank.ru,0,https://sberbank.ru,Safe,1,0,1,0,0,3.721611724,8,unionbank.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2637
+https://duolingo.com,0,https://duolingo.com,Safe,0,0,0,0,0,3.88418372,7,google.com,15,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4438
+https://b-msedge.net,0,https://b-msedge.net,Suspicious,7,0,2,0,5,3.646439345,9,upv.edu.ph,11,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3525
+https://360yield.com,0,https://360yield.com,Suspicious,6,2,0,0,4,4.121928095,6,paypal.com,16,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3570
+https://icloud-content.com,0,https://icloud-content.com,Safe,4,0,0,0,4,3.87314068,10,unionbank.com,11,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,2421
+https://slideshare.net,0,https://slideshare.net,Safe,0,0,0,0,0,3.629219687,10,shopee.ph,19,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2177
+https://calendly.com,0,https://calendly.com,Safe,0,0,0,0,0,3.921928095,6,facebook.com,12,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2260
+https://ngenix.net,0,https://ngenix.net,Safe,0,0,0,0,0,3.419381946,7,ateneo.edu,18,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,TRUE,FALSE,FALSE,2978
+https://walmart.com,0,https://walmart.com,Safe,4,0,0,0,4,3.681880803,4,paymaya.com,30,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1757
+https://comcast.com,0,https://comcast.com,Safe,5,0,0,0,5,3.326360408,4,gcash.com,30,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,9335
+https://dns-parking.com,0,https://dns-parking.com,Suspicious,9,2,2,0,5,4.088779347,9,paypal.com,6,"HOSTINGER operations, UAB",0,FALSE,TRUE,FALSE,FALSE,FALSE,1331
+https://nstld.com,0,https://nstld.com,Suspicious,7,0,2,0,5,3.572469459,5,google.com,25,"Network Solutions, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1307
+https://giphy.com,0,https://giphy.com,Safe,0,0,0,0,0,3.616874606,4,gcash.com,13,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,1526
+https://name-services.com,0,https://name-services.com,Suspicious,7,0,2,0,5,3.94346519,11,facebook.com,24,"eNom, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1465
+https://tp-link.com,0,https://tp-link.com,Safe,0,0,0,0,0,3.787143961,6,paypal.com,23,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2250
+https://g.page,0,https://g.page,Safe,4,0,0,0,4,3.235926351,5,gov.ph,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2190
+https://byteglb.com,0,https://byteglb.com,Suspicious,7,0,2,0,5,3.787143961,5,google.com,2,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1026
+https://scdn.co,0,https://scdn.co,Suspicious,8,0,3,0,5,3.373557262,5,gcash.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,366
+https://addtoany.com,0,https://addtoany.com,Safe,0,0,0,0,0,3.68418372,5,amazon.com,19,"Cloudflare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1435
+https://behance.net,0,https://behance.net,Safe,5,0,0,0,5,3.431623566,8,shopee.ph,20,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,2324
+https://adobedtm.com,0,https://adobedtm.com,Suspicious,7,0,2,0,5,3.68418372,7,google.com,12,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,1135
+https://elasticbeanstalk.com,0,https://elasticbeanstalk.com,Safe,5,0,0,0,5,3.896291529,12,facebook.com,14,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,10916
+https://ailawandorder.com,0,https://ailawandorder.com,Suspicious,6,2,0,0,4,4.05366069,10,amazon.com,2,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1754
+https://mega.co.nz,0,https://mega.co.nz,Safe,3,0,3,0,0,3.836591668,4,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,6280
+https://cdn20.com,0,https://cdn20.com,Suspicious,7,0,2,0,5,3.734521665,5,gcash.com,19,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),0,FALSE,TRUE,FALSE,FALSE,FALSE,1160
+https://erome.com,0,https://erome.com,Safe,5,0,0,0,5,3.499227547,4,google.com,27,EuroDNS S.A.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1915
+https://speedtest.net,0,https://speedtest.net,Safe,5,0,0,0,5,3.041625614,10,upv.edu.ph,26,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1257
+https://cookiedatabase.org,0,https://cookiedatabase.org,Safe,0,0,0,0,0,3.921029622,14,google.com,6,Key-Systems GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,3183
+https://hicloud.com,0,https://hicloud.com,Suspicious,7,0,2,0,5,3.721611724,6,facebook.com,17,"Beijing Guokeyun Computing Technology Co., Ltd",0,FALSE,TRUE,FALSE,FALSE,FALSE,1063
+https://hugedomains.com,0,https://hugedomains.com,Safe,2,2,0,0,0,4.001822826,8,unionbank.com,22,"TurnCommerce, Inc. DBA NameBright.com",0,FALSE,TRUE,TRUE,FALSE,FALSE,2030
+https://blogger.com,0,https://blogger.com,Safe,0,0,0,0,0,3.826874882,4,google.com,26,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2055
+https://timeweb.ru,0,https://timeweb.ru,Safe,1,0,1,0,0,3.683542362,7,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,5871
+https://gitlab.com,0,https://gitlab.com,Safe,0,0,0,0,0,3.794653474,5,google.com,21,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,2195
+https://browser-intake-datadoghq.com,0,https://browser-intake-datadoghq.com,Safe,2,2,0,0,0,4.294653474,20,securitybank.com,5,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,5831
+https://whecloud.com,0,https://whecloud.com,Suspicious,7,0,2,0,5,3.821928095,7,google.com,8,Tucows Domains Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1280
+https://installatiegereedschap.nl,0,https://installatiegereedschap.nl,Safe,1,0,1,0,0,3.824252831,19,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3572
+https://time.com,0,https://time.com,Safe,0,0,0,0,0,3.452819531,5,google.com,32,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1125
+https://xiaomi.net,0,https://xiaomi.net,Safe,4,0,0,0,4,3.683542362,8,amazon.com,16,"eName Technology Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2812
+https://amzn.to,0,https://amzn.to,Safe,0,0,0,0,0,3.456564762,4,amazon.com,15,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2389
+https://wired.com,0,https://wired.com,Safe,4,0,0,0,4,3.852168724,5,gcash.com,33,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1645
+https://netease.com,0,https://netease.com,Safe,4,0,0,0,4,3.536886724,5,gcash.com,27,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3719
+https://crpt.ru,0,https://crpt.ru,Safe,1,0,1,0,0,3.189898095,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4642
+https://adobe.net,0,https://adobe.net,Safe,4,0,0,0,4,3.572469459,7,google.com,28,Nom-iq Ltd. dba COM LAUDE,0,FALSE,TRUE,FALSE,FALSE,FALSE,3301
+https://usatoday.com,0,https://usatoday.com,Safe,5,0,0,0,5,3.68418372,6,paypal.com,31,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1796
+https://mysql.com,0,https://mysql.com,Safe,4,0,0,0,4,3.616874606,5,google.com,32,SafeNames Ltd.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3563
+https://att.net,0,https://att.net,Safe,4,0,0,0,4,2.999581231,6,gov.ph,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,5538
+https://yximgs.com,0,https://yximgs.com,Suspicious,7,0,2,0,5,3.725480557,6,google.com,13,Xin Net Technology Corporation,0,FALSE,TRUE,FALSE,FALSE,FALSE,1447
+https://scribd.com,0,https://scribd.com,Safe,5,0,0,0,5,3.725480557,5,gcash.com,19,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,2331
+https://ring.com,0,https://ring.com,Safe,4,0,0,0,4,3.75,5,google.com,30,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4324
+https://indiatimes.com,0,https://indiatimes.com,Safe,0,0,0,0,0,3.754441846,8,unionbank.com,29,Tucows Domains Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1568
+https://svc.ms,0,https://svc.ms,Suspicious,7,0,2,0,5,3.182005815,5,gov.ph,9,MarkMonitor,0,FALSE,TRUE,FALSE,FALSE,FALSE,1264
+https://force.com,0,https://force.com,Safe,4,0,0,0,4,3.616874606,4,google.com,34,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,3299
+https://xboxlive.com,0,https://xboxlive.com,Safe,4,0,0,0,4,3.921928095,5,google.com,24,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2692
+https://yandex.com,0,https://yandex.com,Safe,4,0,0,0,4,3.947702779,5,paypal.com,27,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,3141
+https://bugsnag.com,0,https://bugsnag.com,Safe,0,0,0,0,0,3.826874882,6,paypal.com,14,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,1799
+https://shein.com,0,https://shein.com,Safe,0,0,0,0,0,3.616874606,5,amazon.com,27,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2802
+https://stackoverflow.com,0,https://stackoverflow.com,Safe,2,2,0,0,0,4.02346519,9,facebook.com,21,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2100
+https://visualstudio.com,0,https://visualstudio.com,Safe,0,0,0,0,0,3.855388542,10,paypal.com,28,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1853
+https://line.me,0,https://line.me,Safe,1,0,1,0,0,3.506890596,6,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1081
+https://aliexpress.com,0,https://aliexpress.com,Safe,0,0,0,0,0,3.879664005,9,google.com,19,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2207
+https://rlcdn.com,0,https://rlcdn.com,Suspicious,7,0,2,0,5,3.734521665,5,amazon.com,16,"Cloudflare, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1492
+https://tds.net,0,https://tds.net,Safe,0,0,0,0,0,3.106890596,6,gov.ph,30,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,4497
+https://wb.ru,0,https://wb.ru,Safe,1,0,1,0,0,3.39274741,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,3352
+https://wix.com,0,https://wix.com,Safe,5,0,0,0,5,3.640223929,5,gcash.com,30,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2644
+https://tripadvisor.com,0,https://tripadvisor.com,Safe,0,0,0,0,0,3.795088586,9,facebook.com,26,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,2529
+https://alicdn.com,0,https://alicdn.com,Safe,5,0,0,0,5,3.836591668,4,amazon.com,17,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,11243
+https://googleplex.com,0,https://googleplex.com,Safe,4,0,0,0,4,3.697845823,4,google.com,27,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2565
+https://ietf.org,0,https://ietf.org,Safe,0,0,0,0,0,3.577819531,7,gov.ph,30,"Cloudflare, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1643
+https://imcmdb.net,0,https://imcmdb.net,Safe,5,0,0,0,5,3.683542362,8,amazon.com,11,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,11292
+https://vivoglobal.com,0,https://vivoglobal.com,Safe,0,0,0,0,0,3.879664005,7,google.com,13,"Alibaba Cloud Computing (Beijing) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1472
+https://amazonalexa.com,0,https://amazonalexa.com,Safe,4,0,0,0,4,3.827909782,5,amazon.com,12,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,4013
+https://deviantart.com,0,https://deviantart.com,Safe,0,0,0,0,0,3.913977073,7,unionbank.com,25,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2853
+https://uol.com.br,0,https://uol.com.br,Safe,3,0,3,0,0,3.725480557,4,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,8230
+https://paloaltonetworks.com,0,https://paloaltonetworks.com,Safe,4,0,0,0,4,3.878783493,12,facebook.com,20,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,2174
+https://trendmicro.com,0,https://trendmicro.com,Safe,0,0,0,0,0,3.788754914,9,amazon.com,30,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,4579
+https://datadoghq.com,0,https://datadoghq.com,Safe,0,0,0,0,0,3.689703732,6,amazon.com,15,"NameCheap, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1820
+https://vecdnlb.com,0,https://vecdnlb.com,Suspicious,7,0,2,0,5,3.93213804,6,google.com,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),0,FALSE,TRUE,FALSE,FALSE,FALSE,1368
+https://tencent-cloud.net,0,https://tencent-cloud.net,Safe,5,0,0,0,5,3.639079571,12,ateneo.edu,13,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1212
+https://ft.com,0,https://ft.com,Safe,5,0,0,0,5,3.324862958,5,gcash.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,2362
+https://bytefcdn-ttpeu.com,0,https://bytefcdn-ttpeu.com,Suspicious,7,0,2,0,5,3.946222777,12,securitybank.com,2,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1342
+https://nypost.com,0,https://nypost.com,Safe,0,0,0,0,0,3.46132014,5,paypal.com,29,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3418
+https://sophos.com,0,https://sophos.com,Safe,4,0,0,0,4,3.197159723,5,google.com,30,Lexsynergy Limited,0,FALSE,TRUE,FALSE,FALSE,FALSE,1970
+https://vtwenty.com,0,https://vtwenty.com,Suspicious,7,0,2,0,5,3.721611724,7,google.com,1,"Amazon Registrar, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1260
+https://target.com,0,https://target.com,Safe,5,0,0,0,5,3.614369446,5,google.com,28,"GoDaddy Corporate Domains, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,2747
+https://fast.com,0,https://fast.com,Safe,0,0,0,0,0,3.452819531,3,gcash.com,31,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1480
+https://amplitude.com,0,https://amplitude.com,Safe,0,0,0,0,0,3.880179923,7,amazon.com,29,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2504
+https://cnet.com,0,https://cnet.com,Safe,5,0,0,0,5,3.452819531,4,gcash.com,31,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3263
+https://vkontakte.ru,0,https://vkontakte.ru,Safe,5,0,1,0,4,3.721928095,9,ateneo.edu,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2110
+https://patreon.com,0,https://patreon.com,Safe,0,0,0,0,0,3.681880803,4,amazon.com,12,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1598
+https://bdydns.com,0,https://bdydns.com,Suspicious,7,0,2,0,5,3.725480557,5,paypal.com,11,Key-Systems GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,1836
+https://nflxvideo.net,0,https://nflxvideo.net,Safe,5,0,0,0,5,3.880179923,10,ateneo.edu,14,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1780
+https://intel.com,0,https://intel.com,Safe,0,0,0,0,0,3.690116518,5,google.com,39,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,4364
+https://amazon.co.jp,0,https://amazon.co.jp,Safe,5,0,1,0,4,3.721928095,3,amazon.com,,,0,FALSE,TRUE,FALSE,FALSE,FALSE,2292
+https://imgur.com,0,https://imgur.com,Safe,0,0,0,0,0,3.734521665,5,google.com,16,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,6373
+https://awswaf.com,0,https://awswaf.com,Suspicious,7,0,2,0,5,3.614369446,5,paypal.com,10,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1197
+https://myqcloud.com,0,https://myqcloud.com,Safe,5,0,0,0,5,3.821928095,5,gcash.com,22,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,FALSE,FALSE,FALSE,1250
+https://jquery.com,0,https://jquery.com,Safe,0,0,0,0,0,3.947702779,6,google.com,20,1API GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2621
+https://docker.com,0,https://docker.com,Safe,5,0,0,0,5,3.725480557,5,google.com,30,Gandi SAS,0,FALSE,TRUE,FALSE,FALSE,FALSE,1554
+https://amazontrust.com,0,https://amazontrust.com,Safe,4,0,0,0,4,3.74095326,5,amazon.com,18,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1434
+https://berkeley.edu,0,https://berkeley.edu,Safe,1,0,1,0,0,3.721928095,6,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1899
+https://trustpilot.com,0,https://trustpilot.com,Safe,0,0,0,0,0,3.568084324,8,paypal.com,18,NameWeb BVBA,0,FALSE,TRUE,TRUE,FALSE,FALSE,3348
+https://sentinelone.net,0,https://sentinelone.net,Suspicious,7,0,2,0,5,3.306170652,10,ateneo.edu,11,"GoDaddy.com, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1121
+https://yahoodns.net,0,https://yahoodns.net,Suspicious,7,0,2,0,5,3.58418372,9,google.com,16,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1224
+https://life360.com,0,https://life360.com,Safe,2,2,0,0,0,4.037401198,7,google.com,23,"Amazon Registrar, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,5753
+https://t-online.de,0,https://t-online.de,Safe,1,0,1,0,0,3.681880803,8,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2814
+https://awsglobalaccelerator.com,0,https://awsglobalaccelerator.com,Suspicious,7,0,2,0,5,3.905639062,16,google.com,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1434
+https://atlassian.com,0,https://atlassian.com,Safe,4,0,0,0,4,3.617809684,6,amazon.com,24,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1448
+https://google.fr,0,https://google.fr,Safe,0,0,0,0,0,3.616874606,3,google.com,25,MARKMONITOR Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,1725
+https://spaceweb.pro,0,https://spaceweb.pro,Safe,5,0,0,0,5,3.68418372,7,shopee.ph,16,"Regional Network Information Center, JSC dba RU-CENTER",0,FALSE,TRUE,FALSE,FALSE,FALSE,11357
+https://hotjar.com,0,https://hotjar.com,Safe,0,0,0,0,0,3.572431251,5,google.com,18,Gandi SAS,0,FALSE,TRUE,TRUE,FALSE,FALSE,2075
+https://surveymonkey.com,0,https://surveymonkey.com,Safe,2,2,0,0,0,4.001629167,8,securitybank.com,26,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2804
+https://myhuaweicloud.com,0,https://myhuaweicloud.com,Suspicious,7,2,0,0,5,4.08385619,8,facebook.com,15,Xin Net Technology Corporation,0,FALSE,TRUE,FALSE,FALSE,FALSE,1039
+https://hostgator.com,0,https://hostgator.com,Safe,0,0,0,0,0,3.499227542,7,google.com,23,"eNom, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2092
+https://rakuten.co.jp,0,https://rakuten.co.jp,Safe,1,0,1,0,0,3.880179923,8,amazon.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1474
+https://rt.ru,0,https://rt.ru,Safe,1,0,1,0,0,3.026986833,5,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,4654
+https://cdnvideo.ru,0,https://cdnvideo.ru,Safe,1,0,1,0,0,3.93213804,8,ateneo.edu,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,6347
+https://yelp.com,0,https://yelp.com,Safe,0,0,0,0,0,3.625,5,google.com,22,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2765
+https://spotifycdn.com,0,https://spotifycdn.com,Suspicious,7,0,2,0,5,3.788754914,8,paypal.com,6,Abion AB,0,FALSE,TRUE,FALSE,FALSE,FALSE,946
+https://newsweek.com,0,https://newsweek.com,Safe,0,0,0,0,0,3.68418372,7,google.com,31,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3707
+https://liadm.com,0,https://liadm.com,Suspicious,7,0,2,0,5,3.734521665,4,gcash.com,15,"eNom, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,1396
+https://worldnic.com,0,https://worldnic.com,Safe,5,0,0,0,5,3.921928095,7,google.com,28,"Network Solutions, LLC",0,FALSE,TRUE,FALSE,FALSE,FALSE,10967
+https://buzzfeed.com,0,https://buzzfeed.com,Safe,5,0,0,0,5,3.921928095,7,google.com,23,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1425
+https://licdn.com,0,https://licdn.com,Suspicious,7,0,2,0,5,3.734521665,5,amazon.com,14,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1331
+https://ted.com,0,https://ted.com,Safe,0,0,0,0,0,3.456564762,5,gcash.com,31,"Name.com, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3209
+https://google.com.hk,0,https://google.com.hk,Safe,3,0,3,0,0,3.689703732,4,gov.ph,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1025
+https://samsungapps.com,0,https://samsungapps.com,Safe,0,0,0,0,0,3.621175543,8,amazon.com,16,Whois Corp.,0,FALSE,TRUE,TRUE,FALSE,FALSE,3306
+https://onetrust.com,0,https://onetrust.com,Safe,0,0,0,0,0,3.621928095,7,gcash.com,21,"NameCheap, Inc.",0,FALSE,TRUE,TRUE,FALSE,FALSE,1697
+https://conviva.com,0,https://conviva.com,Safe,0,0,0,0,0,3.721611724,6,google.com,21,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,2360
+https://google.co.jp,0,https://google.co.jp,Safe,1,0,1,0,0,3.58418372,3,google.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1029
+https://okta.com,0,https://okta.com,Safe,0,0,0,0,0,3.452819531,5,google.com,21,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2097
+https://squarespace.com,0,https://squarespace.com,Safe,0,0,0,0,0,3.795088586,8,paypal.com,22,MarkMonitor Inc.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2952
+https://deepl.com,0,https://deepl.com,Safe,0,0,0,0,0,3.616874606,4,paypal.com,15,Key-Systems GmbH,0,FALSE,TRUE,TRUE,FALSE,FALSE,2105
+https://playstation.com,0,https://playstation.com,Safe,4,0,0,0,4,3.74095326,7,paypal.com,28,1API GmbH,0,FALSE,TRUE,FALSE,FALSE,FALSE,2898
+https://fb-t-msedge.net,0,https://fb-t-msedge.net,Suspicious,7,0,2,0,5,3.708132065,12,upv.edu.ph,7,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,1495
+https://creativecdn.com,0,https://creativecdn.com,Safe,5,0,0,0,5,3.936180434,9,amazon.com,13,OVH sas,0,FALSE,TRUE,FALSE,FALSE,FALSE,2427
+https://ca.gov,0,https://ca.gov,Safe,1,0,1,0,0,3.521640636,5,gcash.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,2091
+https://dynatrace.com,0,https://dynatrace.com,Safe,4,0,0,0,4,3.880179923,7,paypal.com,20,"CSC Corporate Domains, Inc.",0,FALSE,TRUE,FALSE,FALSE,FALSE,3496
+https://firetvcaptiveportal.com,0,https://firetvcaptiveportal.com,Safe,5,0,0,0,5,3.910179279,15,facebook.com,5,MarkMonitor Inc.,0,FALSE,TRUE,FALSE,FALSE,FALSE,13500
+https://bidmachine.io,0,https://bidmachine.io,Safe,1,0,1,0,0,3.880179923,9,amazon.com,,,0,FALSE,TRUE,TRUE,FALSE,FALSE,1196
+https://qualtrics.com,0,https://qualtrics.com,Safe,0,0,0,0,0,3.880179923,8,facebook.com,25,EuroDNS S.A.,0,FALSE,TRUE,TRUE,FALSE,FALSE,2751
+https://braze.com,0,https://braze.com,Safe,0,0,0,0,0,3.852168724,4,amazon.com,25,"GoDaddy.com, LLC",0,FALSE,TRUE,TRUE,FALSE,FALSE,3011
+https://163.com,0,https://163.com,Safe,0,0,0,0,0,3.640223929,5,gcash.com,28,"MarkMonitor Information Technology (Shanghai) Co., Ltd.",0,FALSE,TRUE,TRUE,FALSE,FALSE,3889
